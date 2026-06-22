@@ -1,0 +1,1918 @@
+team_name,season,batting_order,plate_appearances,obp,slg,ops
+Arizona Diamondbacks,2020,1,53,0.398,0.535,0.933
+Arizona Diamondbacks,2020,2,50,0.282,0.387,0.669
+Arizona Diamondbacks,2020,3,32,0.289,0.336,0.626
+Arizona Diamondbacks,2020,4,45,0.297,0.338,0.634
+Arizona Diamondbacks,2020,5,43,0.377,0.563,0.941
+Arizona Diamondbacks,2020,6,43,0.295,0.333,0.629
+Arizona Diamondbacks,2020,7,37,0.285,0.314,0.599
+Arizona Diamondbacks,2020,8,22,0.256,0.325,0.581
+Arizona Diamondbacks,2020,9,30,0.336,0.415,0.751
+Athletics,2020,1,31,0.291,0.481,0.772
+Athletics,2020,2,25,0.221,0.333,0.554
+Athletics,2020,3,39,0.313,0.454,0.767
+Athletics,2020,4,44,0.302,0.347,0.649
+Athletics,2020,5,40,0.297,0.343,0.64
+Athletics,2020,6,40,0.322,0.365,0.687
+Athletics,2020,7,49,0.343,0.541,0.884
+Athletics,2020,8,49,0.381,0.478,0.859
+Athletics,2020,9,37,0.231,0.306,0.537
+Atlanta Braves,2020,1,36,0.287,0.336,0.623
+Atlanta Braves,2020,2,41,0.304,0.417,0.721
+Atlanta Braves,2020,3,37,0.338,0.476,0.814
+Atlanta Braves,2020,4,43,0.354,0.467,0.822
+Atlanta Braves,2020,5,59,0.371,0.508,0.878
+Atlanta Braves,2020,6,45,0.347,0.419,0.766
+Atlanta Braves,2020,7,43,0.295,0.314,0.609
+Atlanta Braves,2020,8,39,0.348,0.552,0.9
+Atlanta Braves,2020,9,38,0.241,0.234,0.475
+Baltimore Orioles,2020,1,28,0.278,0.416,0.694
+Baltimore Orioles,2020,2,33,0.365,0.38,0.745
+Baltimore Orioles,2020,3,31,0.252,0.406,0.658
+Baltimore Orioles,2020,4,25,0.337,0.622,0.959
+Baltimore Orioles,2020,5,39,0.336,0.466,0.801
+Baltimore Orioles,2020,6,43,0.361,0.503,0.864
+Baltimore Orioles,2020,7,42,0.352,0.526,0.878
+Baltimore Orioles,2020,8,37,0.302,0.434,0.736
+Baltimore Orioles,2020,9,44,0.253,0.291,0.544
+Boston Red Sox,2020,1,33,0.358,0.532,0.89
+Boston Red Sox,2020,2,40,0.365,0.496,0.862
+Boston Red Sox,2020,3,31,0.319,0.449,0.767
+Boston Red Sox,2020,4,34,0.358,0.476,0.834
+Boston Red Sox,2020,5,28,0.257,0.413,0.67
+Boston Red Sox,2020,6,26,0.351,0.455,0.806
+Boston Red Sox,2020,7,34,0.241,0.388,0.628
+Boston Red Sox,2020,8,32,0.328,0.345,0.673
+Boston Red Sox,2020,9,36,0.273,0.47,0.742
+Chicago Cubs,2020,1,31,0.268,0.36,0.628
+Chicago Cubs,2020,2,36,0.26,0.402,0.662
+Chicago Cubs,2020,3,42,0.263,0.288,0.551
+Chicago Cubs,2020,4,49,0.271,0.283,0.554
+Chicago Cubs,2020,5,39,0.297,0.402,0.699
+Chicago Cubs,2020,6,38,0.302,0.474,0.776
+Chicago Cubs,2020,7,47,0.32,0.398,0.719
+Chicago Cubs,2020,8,39,0.36,0.5,0.86
+Chicago Cubs,2020,9,36,0.303,0.414,0.718
+Chicago White Sox,2020,1,33,0.24,0.362,0.602
+Chicago White Sox,2020,2,21,0.337,0.487,0.824
+Chicago White Sox,2020,3,28,0.412,0.49,0.902
+Chicago White Sox,2020,4,33,0.356,0.459,0.815
+Chicago White Sox,2020,5,41,0.329,0.447,0.776
+Chicago White Sox,2020,6,52,0.369,0.651,1.02
+Chicago White Sox,2020,7,44,0.223,0.283,0.506
+Chicago White Sox,2020,8,39,0.338,0.616,0.954
+Chicago White Sox,2020,9,45,0.298,0.472,0.77
+Cincinnati Reds,2020,1,44,0.303,0.394,0.697
+Cincinnati Reds,2020,2,34,0.302,0.404,0.706
+Cincinnati Reds,2020,3,36,0.331,0.534,0.865
+Cincinnati Reds,2020,4,30,0.361,0.547,0.908
+Cincinnati Reds,2020,5,28,0.211,0.232,0.443
+Cincinnati Reds,2020,6,35,0.339,0.571,0.911
+Cincinnati Reds,2020,7,38,0.303,0.429,0.732
+Cincinnati Reds,2020,8,36,0.25,0.303,0.553
+Cincinnati Reds,2020,9,38,0.285,0.339,0.624
+Cleveland Guardians,2020,1,30,0.342,0.427,0.769
+Cleveland Guardians,2020,2,53,0.345,0.44,0.785
+Cleveland Guardians,2020,3,58,0.315,0.328,0.644
+Cleveland Guardians,2020,4,45,0.341,0.34,0.681
+Cleveland Guardians,2020,5,42,0.307,0.276,0.583
+Cleveland Guardians,2020,6,34,0.248,0.239,0.487
+Cleveland Guardians,2020,7,38,0.305,0.477,0.782
+Cleveland Guardians,2020,8,34,0.246,0.311,0.557
+Cleveland Guardians,2020,9,32,0.202,0.179,0.381
+Colorado Rockies,2020,1,34,0.366,0.488,0.854
+Colorado Rockies,2020,2,34,0.351,0.468,0.819
+Colorado Rockies,2020,3,49,0.364,0.521,0.885
+Colorado Rockies,2020,4,27,0.347,0.438,0.786
+Colorado Rockies,2020,5,39,0.277,0.331,0.608
+Colorado Rockies,2020,6,28,0.371,0.51,0.882
+Colorado Rockies,2020,7,36,0.266,0.331,0.597
+Colorado Rockies,2020,8,38,0.276,0.357,0.633
+Colorado Rockies,2020,9,36,0.276,0.412,0.689
+Detroit Tigers,2020,1,56,0.259,0.33,0.589
+Detroit Tigers,2020,2,31,0.269,0.462,0.731
+Detroit Tigers,2020,3,32,0.281,0.411,0.692
+Detroit Tigers,2020,4,41,0.245,0.313,0.558
+Detroit Tigers,2020,5,35,0.252,0.339,0.592
+Detroit Tigers,2020,6,27,0.348,0.488,0.836
+Detroit Tigers,2020,7,39,0.241,0.394,0.635
+Detroit Tigers,2020,8,38,0.292,0.419,0.712
+Detroit Tigers,2020,9,33,0.287,0.425,0.711
+Houston Astros,2020,1,47,0.311,0.411,0.722
+Houston Astros,2020,2,50,0.345,0.489,0.834
+Houston Astros,2020,3,57,0.313,0.353,0.666
+Houston Astros,2020,4,52,0.313,0.394,0.707
+Houston Astros,2020,5,56,0.358,0.503,0.86
+Houston Astros,2020,6,52,0.327,0.418,0.745
+Houston Astros,2020,7,36,0.324,0.473,0.797
+Houston Astros,2020,8,34,0.336,0.36,0.696
+Houston Astros,2020,9,35,0.304,0.395,0.7
+Kansas City Royals,2020,1,34,0.376,0.478,0.854
+Kansas City Royals,2020,2,37,0.264,0.353,0.617
+Kansas City Royals,2020,3,35,0.264,0.41,0.675
+Kansas City Royals,2020,4,35,0.248,0.385,0.633
+Kansas City Royals,2020,5,35,0.298,0.358,0.656
+Kansas City Royals,2020,6,38,0.362,0.608,0.97
+Kansas City Royals,2020,7,40,0.288,0.447,0.735
+Kansas City Royals,2020,8,39,0.209,0.309,0.518
+Kansas City Royals,2020,9,35,0.324,0.344,0.668
+Los Angeles Angels,2020,1,52,0.271,0.437,0.708
+Los Angeles Angels,2020,2,35,0.255,0.293,0.548
+Los Angeles Angels,2020,3,33,0.362,0.464,0.826
+Los Angeles Angels,2020,4,24,0.295,0.568,0.863
+Los Angeles Angels,2020,5,36,0.342,0.538,0.879
+Los Angeles Angels,2020,6,34,0.313,0.439,0.752
+Los Angeles Angels,2020,7,43,0.337,0.479,0.817
+Los Angeles Angels,2020,8,34,0.304,0.391,0.695
+Los Angeles Angels,2020,9,40,0.353,0.424,0.777
+Los Angeles Dodgers,2020,1,64,0.305,0.435,0.74
+Los Angeles Dodgers,2020,2,55,0.333,0.393,0.726
+Los Angeles Dodgers,2020,3,57,0.396,0.602,0.998
+Los Angeles Dodgers,2020,4,55,0.343,0.475,0.818
+Los Angeles Dodgers,2020,5,58,0.294,0.337,0.631
+Los Angeles Dodgers,2020,6,46,0.373,0.71,1.083
+Los Angeles Dodgers,2020,7,51,0.33,0.415,0.745
+Los Angeles Dodgers,2020,8,62,0.297,0.415,0.712
+Los Angeles Dodgers,2020,9,58,0.353,0.497,0.85
+Miami Marlins,2020,1,33,0.333,0.377,0.711
+Miami Marlins,2020,2,41,0.324,0.447,0.771
+Miami Marlins,2020,3,48,0.317,0.386,0.703
+Miami Marlins,2020,4,38,0.357,0.468,0.825
+Miami Marlins,2020,5,41,0.281,0.323,0.604
+Miami Marlins,2020,6,35,0.266,0.301,0.567
+Miami Marlins,2020,7,35,0.272,0.316,0.588
+Miami Marlins,2020,8,35,0.275,0.314,0.589
+Miami Marlins,2020,9,31,0.261,0.314,0.576
+Milwaukee Brewers,2020,1,40,0.277,0.426,0.703
+Milwaukee Brewers,2020,2,53,0.239,0.376,0.616
+Milwaukee Brewers,2020,3,50,0.218,0.3,0.518
+Milwaukee Brewers,2020,4,39,0.268,0.365,0.633
+Milwaukee Brewers,2020,5,44,0.368,0.4,0.768
+Milwaukee Brewers,2020,6,34,0.297,0.299,0.596
+Milwaukee Brewers,2020,7,28,0.33,0.266,0.596
+Milwaukee Brewers,2020,8,29,0.32,0.38,0.701
+Milwaukee Brewers,2020,9,34,0.25,0.245,0.495
+Minnesota Twins,2020,1,51,0.371,0.548,0.919
+Minnesota Twins,2020,2,44,0.304,0.399,0.703
+Minnesota Twins,2020,3,41,0.269,0.366,0.635
+Minnesota Twins,2020,4,39,0.295,0.382,0.676
+Minnesota Twins,2020,5,38,0.246,0.282,0.529
+Minnesota Twins,2020,6,37,0.331,0.45,0.781
+Minnesota Twins,2020,7,26,0.304,0.28,0.585
+Minnesota Twins,2020,8,41,0.252,0.348,0.6
+Minnesota Twins,2020,9,38,0.326,0.474,0.8
+New York Mets,2020,1,41,0.343,0.417,0.76
+New York Mets,2020,2,33,0.352,0.539,0.891
+New York Mets,2020,3,42,0.269,0.41,0.679
+New York Mets,2020,4,36,0.279,0.372,0.651
+New York Mets,2020,5,33,0.372,0.556,0.927
+New York Mets,2020,6,37,0.326,0.381,0.706
+New York Mets,2020,7,30,0.309,0.431,0.74
+New York Mets,2020,8,27,0.369,0.438,0.806
+New York Mets,2020,9,28,0.392,0.407,0.799
+New York Yankees,2020,1,42,0.354,0.444,0.798
+New York Yankees,2020,2,34,0.333,0.478,0.812
+New York Yankees,2020,3,40,0.353,0.526,0.878
+New York Yankees,2020,4,39,0.338,0.377,0.715
+New York Yankees,2020,5,41,0.358,0.61,0.968
+New York Yankees,2020,6,41,0.343,0.566,0.909
+New York Yankees,2020,7,43,0.346,0.46,0.807
+New York Yankees,2020,8,45,0.324,0.427,0.75
+New York Yankees,2020,9,39,0.277,0.393,0.671
+Philadelphia Phillies,2020,1,44,0.264,0.428,0.691
+Philadelphia Phillies,2020,2,41,0.378,0.575,0.953
+Philadelphia Phillies,2020,3,34,0.258,0.436,0.694
+Philadelphia Phillies,2020,4,40,0.391,0.484,0.875
+Philadelphia Phillies,2020,5,30,0.337,0.382,0.719
+Philadelphia Phillies,2020,6,23,0.305,0.425,0.73
+Philadelphia Phillies,2020,7,35,0.376,0.525,0.901
+Philadelphia Phillies,2020,8,34,0.375,0.551,0.926
+Philadelphia Phillies,2020,9,36,0.403,0.321,0.724
+Pittsburgh Pirates,2020,1,25,0.325,0.397,0.723
+Pittsburgh Pirates,2020,2,35,0.248,0.222,0.47
+Pittsburgh Pirates,2020,3,34,0.296,0.405,0.701
+Pittsburgh Pirates,2020,4,38,0.213,0.238,0.451
+Pittsburgh Pirates,2020,5,40,0.278,0.354,0.632
+Pittsburgh Pirates,2020,6,44,0.359,0.486,0.845
+Pittsburgh Pirates,2020,7,35,0.358,0.451,0.809
+Pittsburgh Pirates,2020,8,35,0.266,0.433,0.699
+Pittsburgh Pirates,2020,9,46,0.282,0.411,0.694
+San Diego Padres,2020,1,34,0.294,0.371,0.666
+San Diego Padres,2020,2,38,0.287,0.345,0.631
+San Diego Padres,2020,3,46,0.237,0.275,0.513
+San Diego Padres,2020,4,40,0.336,0.407,0.743
+San Diego Padres,2020,5,32,0.415,0.56,0.976
+San Diego Padres,2020,6,46,0.376,0.597,0.973
+San Diego Padres,2020,7,35,0.288,0.402,0.69
+San Diego Padres,2020,8,48,0.328,0.472,0.8
+San Diego Padres,2020,9,55,0.333,0.523,0.857
+San Francisco Giants,2020,1,45,0.257,0.373,0.631
+San Francisco Giants,2020,2,48,0.331,0.411,0.742
+San Francisco Giants,2020,3,41,0.419,0.578,0.997
+San Francisco Giants,2020,4,40,0.314,0.449,0.763
+San Francisco Giants,2020,5,33,0.358,0.564,0.922
+San Francisco Giants,2020,6,39,0.324,0.464,0.788
+San Francisco Giants,2020,7,30,0.366,0.527,0.893
+San Francisco Giants,2020,8,31,0.31,0.409,0.719
+San Francisco Giants,2020,9,31,0.291,0.343,0.634
+Seattle Mariners,2020,1,21,0.254,0.242,0.496
+Seattle Mariners,2020,2,35,0.256,0.316,0.572
+Seattle Mariners,2020,3,23,0.273,0.338,0.611
+Seattle Mariners,2020,4,31,0.325,0.35,0.674
+Seattle Mariners,2020,5,35,0.393,0.425,0.817
+Seattle Mariners,2020,6,51,0.289,0.358,0.647
+Seattle Mariners,2020,7,43,0.333,0.452,0.785
+Seattle Mariners,2020,8,51,0.275,0.345,0.62
+Seattle Mariners,2020,9,46,0.224,0.265,0.488
+St. Louis Cardinals,2020,1,37,0.349,0.37,0.719
+St. Louis Cardinals,2020,2,31,0.296,0.374,0.67
+St. Louis Cardinals,2020,3,18,0.362,0.298,0.66
+St. Louis Cardinals,2020,4,28,0.361,0.441,0.802
+St. Louis Cardinals,2020,5,17,0.39,0.458,0.848
+St. Louis Cardinals,2020,6,22,0.293,0.292,0.586
+St. Louis Cardinals,2020,7,37,0.306,0.44,0.746
+St. Louis Cardinals,2020,8,31,0.264,0.375,0.639
+St. Louis Cardinals,2020,9,29,0.375,0.471,0.846
+Tampa Bay Rays,2020,1,39,0.361,0.324,0.684
+Tampa Bay Rays,2020,2,33,0.301,0.419,0.72
+Tampa Bay Rays,2020,3,35,0.314,0.418,0.732
+Tampa Bay Rays,2020,4,47,0.28,0.449,0.729
+Tampa Bay Rays,2020,5,51,0.289,0.331,0.62
+Tampa Bay Rays,2020,6,63,0.333,0.41,0.743
+Tampa Bay Rays,2020,7,65,0.289,0.359,0.648
+Tampa Bay Rays,2020,8,54,0.265,0.327,0.592
+Tampa Bay Rays,2020,9,59,0.328,0.5,0.828
+Texas Rangers,2020,1,43,0.232,0.316,0.548
+Texas Rangers,2020,2,47,0.315,0.354,0.669
+Texas Rangers,2020,3,38,0.248,0.404,0.653
+Texas Rangers,2020,4,36,0.285,0.408,0.693
+Texas Rangers,2020,5,33,0.305,0.4,0.705
+Texas Rangers,2020,6,32,0.304,0.528,0.832
+Texas Rangers,2020,7,31,0.295,0.351,0.645
+Texas Rangers,2020,8,29,0.247,0.337,0.584
+Texas Rangers,2020,9,36,0.221,0.252,0.473
+Toronto Blue Jays,2020,1,24,0.298,0.316,0.613
+Toronto Blue Jays,2020,2,36,0.354,0.513,0.867
+Toronto Blue Jays,2020,3,40,0.335,0.608,0.944
+Toronto Blue Jays,2020,4,35,0.266,0.478,0.744
+Toronto Blue Jays,2020,5,31,0.275,0.286,0.561
+Toronto Blue Jays,2020,6,30,0.34,0.454,0.793
+Toronto Blue Jays,2020,7,35,0.299,0.411,0.71
+Toronto Blue Jays,2020,8,25,0.202,0.203,0.405
+Toronto Blue Jays,2020,9,30,0.304,0.523,0.827
+Washington Nationals,2020,1,44,0.329,0.396,0.725
+Washington Nationals,2020,2,35,0.363,0.63,0.993
+Washington Nationals,2020,3,26,0.315,0.453,0.769
+Washington Nationals,2020,4,30,0.324,0.309,0.633
+Washington Nationals,2020,5,35,0.308,0.387,0.694
+Washington Nationals,2020,6,28,0.206,0.364,0.57
+Washington Nationals,2020,7,22,0.291,0.392,0.683
+Washington Nationals,2020,8,38,0.347,0.544,0.891
+Washington Nationals,2020,9,31,0.276,0.347,0.624
+Arizona Diamondbacks,2021,1,164,0.307,0.39,0.697
+Arizona Diamondbacks,2021,2,128,0.311,0.412,0.724
+Arizona Diamondbacks,2021,3,82,0.324,0.457,0.781
+Arizona Diamondbacks,2021,4,106,0.269,0.34,0.609
+Arizona Diamondbacks,2021,5,109,0.294,0.374,0.668
+Arizona Diamondbacks,2021,6,106,0.289,0.42,0.71
+Arizona Diamondbacks,2021,7,107,0.307,0.379,0.686
+Arizona Diamondbacks,2021,8,99,0.273,0.373,0.646
+Arizona Diamondbacks,2021,9,96,0.33,0.435,0.765
+Athletics,2021,1,151,0.311,0.384,0.695
+Athletics,2021,2,175,0.299,0.358,0.657
+Athletics,2021,3,158,0.307,0.399,0.706
+Athletics,2021,4,151,0.335,0.454,0.789
+Athletics,2021,5,164,0.283,0.385,0.668
+Athletics,2021,6,148,0.324,0.432,0.756
+Athletics,2021,7,162,0.31,0.353,0.663
+Athletics,2021,8,131,0.31,0.409,0.718
+Athletics,2021,9,129,0.309,0.414,0.723
+Atlanta Braves,2021,1,75,0.269,0.368,0.637
+Atlanta Braves,2021,2,98,0.269,0.44,0.709
+Atlanta Braves,2021,3,127,0.332,0.416,0.747
+Atlanta Braves,2021,4,145,0.284,0.419,0.703
+Atlanta Braves,2021,5,142,0.295,0.325,0.62
+Atlanta Braves,2021,6,117,0.337,0.466,0.804
+Atlanta Braves,2021,7,123,0.341,0.427,0.768
+Atlanta Braves,2021,8,108,0.322,0.489,0.811
+Atlanta Braves,2021,9,93,0.315,0.453,0.769
+Baltimore Orioles,2021,1,123,0.329,0.451,0.78
+Baltimore Orioles,2021,2,114,0.291,0.411,0.702
+Baltimore Orioles,2021,3,145,0.287,0.366,0.652
+Baltimore Orioles,2021,4,139,0.259,0.348,0.608
+Baltimore Orioles,2021,5,164,0.278,0.353,0.631
+Baltimore Orioles,2021,6,142,0.293,0.363,0.656
+Baltimore Orioles,2021,7,143,0.312,0.439,0.751
+Baltimore Orioles,2021,8,153,0.319,0.443,0.763
+Baltimore Orioles,2021,9,148,0.282,0.407,0.688
+Boston Red Sox,2021,1,146,0.348,0.497,0.845
+Boston Red Sox,2021,2,165,0.299,0.381,0.68
+Boston Red Sox,2021,3,132,0.299,0.381,0.68
+Boston Red Sox,2021,4,153,0.329,0.391,0.72
+Boston Red Sox,2021,5,159,0.357,0.5,0.857
+Boston Red Sox,2021,6,204,0.343,0.501,0.844
+Boston Red Sox,2021,7,184,0.303,0.389,0.692
+Boston Red Sox,2021,8,156,0.346,0.533,0.879
+Boston Red Sox,2021,9,151,0.299,0.433,0.732
+Chicago Cubs,2021,1,97,0.307,0.383,0.691
+Chicago Cubs,2021,2,110,0.27,0.34,0.609
+Chicago Cubs,2021,3,124,0.288,0.416,0.704
+Chicago Cubs,2021,4,120,0.292,0.366,0.658
+Chicago Cubs,2021,5,126,0.29,0.421,0.711
+Chicago Cubs,2021,6,128,0.274,0.36,0.634
+Chicago Cubs,2021,7,124,0.312,0.458,0.77
+Chicago Cubs,2021,8,107,0.285,0.429,0.714
+Chicago Cubs,2021,9,102,0.323,0.43,0.753
+Chicago White Sox,2021,1,100,0.333,0.393,0.726
+Chicago White Sox,2021,2,155,0.321,0.401,0.723
+Chicago White Sox,2021,3,174,0.351,0.454,0.805
+Chicago White Sox,2021,4,162,0.331,0.431,0.762
+Chicago White Sox,2021,5,173,0.336,0.443,0.78
+Chicago White Sox,2021,6,142,0.335,0.431,0.765
+Chicago White Sox,2021,7,127,0.298,0.392,0.689
+Chicago White Sox,2021,8,118,0.328,0.402,0.73
+Chicago White Sox,2021,9,132,0.315,0.371,0.685
+Cincinnati Reds,2021,1,131,0.348,0.527,0.875
+Cincinnati Reds,2021,2,137,0.333,0.496,0.83
+Cincinnati Reds,2021,3,118,0.306,0.44,0.746
+Cincinnati Reds,2021,4,108,0.334,0.452,0.787
+Cincinnati Reds,2021,5,113,0.282,0.419,0.701
+Cincinnati Reds,2021,6,115,0.287,0.381,0.668
+Cincinnati Reds,2021,7,130,0.356,0.485,0.841
+Cincinnati Reds,2021,8,131,0.276,0.39,0.666
+Cincinnati Reds,2021,9,135,0.273,0.361,0.634
+Cleveland Guardians,2021,1,132,0.311,0.44,0.751
+Cleveland Guardians,2021,2,137,0.305,0.456,0.761
+Cleveland Guardians,2021,3,121,0.329,0.413,0.742
+Cleveland Guardians,2021,4,134,0.276,0.364,0.64
+Cleveland Guardians,2021,5,153,0.274,0.381,0.656
+Cleveland Guardians,2021,6,155,0.284,0.422,0.706
+Cleveland Guardians,2021,7,151,0.282,0.363,0.645
+Cleveland Guardians,2021,8,152,0.316,0.418,0.734
+Cleveland Guardians,2021,9,160,0.317,0.461,0.778
+Colorado Rockies,2021,1,106,0.338,0.443,0.781
+Colorado Rockies,2021,2,127,0.33,0.433,0.763
+Colorado Rockies,2021,3,117,0.293,0.386,0.678
+Colorado Rockies,2021,4,98,0.346,0.435,0.781
+Colorado Rockies,2021,5,96,0.311,0.391,0.701
+Colorado Rockies,2021,6,130,0.303,0.418,0.721
+Colorado Rockies,2021,7,117,0.332,0.49,0.823
+Colorado Rockies,2021,8,106,0.292,0.355,0.648
+Colorado Rockies,2021,9,111,0.27,0.379,0.649
+Detroit Tigers,2021,1,207,0.299,0.368,0.666
+Detroit Tigers,2021,2,127,0.309,0.383,0.692
+Detroit Tigers,2021,3,130,0.337,0.451,0.787
+Detroit Tigers,2021,4,132,0.324,0.399,0.723
+Detroit Tigers,2021,5,132,0.334,0.441,0.774
+Detroit Tigers,2021,6,130,0.275,0.319,0.594
+Detroit Tigers,2021,7,147,0.302,0.423,0.725
+Detroit Tigers,2021,8,141,0.295,0.426,0.721
+Detroit Tigers,2021,9,144,0.29,0.361,0.651
+Houston Astros,2021,1,188,0.308,0.363,0.671
+Houston Astros,2021,2,187,0.335,0.389,0.725
+Houston Astros,2021,3,173,0.347,0.446,0.792
+Houston Astros,2021,4,173,0.369,0.492,0.861
+Houston Astros,2021,5,132,0.32,0.48,0.8
+Houston Astros,2021,6,116,0.323,0.415,0.737
+Houston Astros,2021,7,93,0.381,0.488,0.869
+Houston Astros,2021,8,118,0.31,0.399,0.709
+Houston Astros,2021,9,137,0.368,0.485,0.853
+Kansas City Royals,2021,1,145,0.296,0.323,0.619
+Kansas City Royals,2021,2,172,0.305,0.418,0.723
+Kansas City Royals,2021,3,150,0.262,0.378,0.64
+Kansas City Royals,2021,4,154,0.313,0.4,0.713
+Kansas City Royals,2021,5,153,0.296,0.474,0.77
+Kansas City Royals,2021,6,157,0.28,0.362,0.642
+Kansas City Royals,2021,7,139,0.308,0.39,0.698
+Kansas City Royals,2021,8,120,0.309,0.377,0.686
+Kansas City Royals,2021,9,116,0.313,0.454,0.767
+Los Angeles Angels,2021,1,170,0.249,0.349,0.599
+Los Angeles Angels,2021,2,148,0.278,0.366,0.644
+Los Angeles Angels,2021,3,113,0.311,0.417,0.728
+Los Angeles Angels,2021,4,122,0.305,0.441,0.745
+Los Angeles Angels,2021,5,137,0.292,0.358,0.651
+Los Angeles Angels,2021,6,142,0.332,0.455,0.786
+Los Angeles Angels,2021,7,142,0.312,0.376,0.688
+Los Angeles Angels,2021,8,161,0.323,0.415,0.738
+Los Angeles Angels,2021,9,132,0.303,0.429,0.732
+Los Angeles Dodgers,2021,1,176,0.318,0.444,0.762
+Los Angeles Dodgers,2021,2,95,0.365,0.429,0.794
+Los Angeles Dodgers,2021,3,104,0.302,0.431,0.733
+Los Angeles Dodgers,2021,4,102,0.329,0.489,0.818
+Los Angeles Dodgers,2021,5,100,0.33,0.417,0.747
+Los Angeles Dodgers,2021,6,107,0.279,0.424,0.704
+Los Angeles Dodgers,2021,7,121,0.345,0.468,0.813
+Los Angeles Dodgers,2021,8,118,0.327,0.437,0.765
+Los Angeles Dodgers,2021,9,124,0.315,0.394,0.709
+Miami Marlins,2021,1,64,0.252,0.3,0.552
+Miami Marlins,2021,2,102,0.353,0.433,0.786
+Miami Marlins,2021,3,123,0.295,0.347,0.642
+Miami Marlins,2021,4,139,0.303,0.393,0.697
+Miami Marlins,2021,5,112,0.274,0.37,0.644
+Miami Marlins,2021,6,111,0.292,0.374,0.666
+Miami Marlins,2021,7,110,0.271,0.337,0.609
+Miami Marlins,2021,8,95,0.269,0.405,0.674
+Miami Marlins,2021,9,97,0.293,0.376,0.67
+Milwaukee Brewers,2021,1,143,0.299,0.413,0.712
+Milwaukee Brewers,2021,2,119,0.284,0.324,0.608
+Milwaukee Brewers,2021,3,131,0.307,0.402,0.709
+Milwaukee Brewers,2021,4,116,0.284,0.369,0.653
+Milwaukee Brewers,2021,5,129,0.321,0.466,0.787
+Milwaukee Brewers,2021,6,139,0.277,0.348,0.626
+Milwaukee Brewers,2021,7,131,0.336,0.459,0.795
+Milwaukee Brewers,2021,8,133,0.315,0.402,0.717
+Milwaukee Brewers,2021,9,132,0.32,0.356,0.676
+Minnesota Twins,2021,1,170,0.293,0.43,0.723
+Minnesota Twins,2021,2,141,0.328,0.495,0.822
+Minnesota Twins,2021,3,122,0.332,0.434,0.766
+Minnesota Twins,2021,4,117,0.341,0.522,0.863
+Minnesota Twins,2021,5,119,0.284,0.325,0.608
+Minnesota Twins,2021,6,154,0.311,0.407,0.718
+Minnesota Twins,2021,7,144,0.279,0.374,0.653
+Minnesota Twins,2021,8,159,0.323,0.412,0.735
+Minnesota Twins,2021,9,163,0.311,0.454,0.765
+New York Mets,2021,1,75,0.269,0.434,0.703
+New York Mets,2021,2,110,0.302,0.375,0.677
+New York Mets,2021,3,111,0.309,0.375,0.683
+New York Mets,2021,4,125,0.305,0.441,0.747
+New York Mets,2021,5,111,0.303,0.388,0.692
+New York Mets,2021,6,121,0.313,0.411,0.724
+New York Mets,2021,7,117,0.32,0.42,0.74
+New York Mets,2021,8,115,0.313,0.398,0.711
+New York Mets,2021,9,122,0.299,0.387,0.686
+New York Yankees,2021,1,176,0.323,0.412,0.734
+New York Yankees,2021,2,149,0.318,0.446,0.765
+New York Yankees,2021,3,180,0.319,0.41,0.73
+New York Yankees,2021,4,190,0.282,0.404,0.686
+New York Yankees,2021,5,150,0.281,0.396,0.677
+New York Yankees,2021,6,149,0.315,0.327,0.642
+New York Yankees,2021,7,159,0.334,0.475,0.809
+New York Yankees,2021,8,139,0.354,0.461,0.815
+New York Yankees,2021,9,140,0.323,0.393,0.716
+Philadelphia Phillies,2021,1,145,0.315,0.445,0.76
+Philadelphia Phillies,2021,2,162,0.3,0.402,0.702
+Philadelphia Phillies,2021,3,159,0.305,0.41,0.716
+Philadelphia Phillies,2021,4,129,0.331,0.4,0.731
+Philadelphia Phillies,2021,5,125,0.288,0.385,0.673
+Philadelphia Phillies,2021,6,129,0.33,0.502,0.833
+Philadelphia Phillies,2021,7,132,0.296,0.402,0.698
+Philadelphia Phillies,2021,8,125,0.308,0.413,0.721
+Philadelphia Phillies,2021,9,119,0.321,0.369,0.69
+Pittsburgh Pirates,2021,1,84,0.279,0.259,0.538
+Pittsburgh Pirates,2021,2,81,0.276,0.412,0.689
+Pittsburgh Pirates,2021,3,93,0.317,0.336,0.653
+Pittsburgh Pirates,2021,4,111,0.301,0.429,0.73
+Pittsburgh Pirates,2021,5,133,0.266,0.341,0.606
+Pittsburgh Pirates,2021,6,104,0.271,0.296,0.567
+Pittsburgh Pirates,2021,7,137,0.279,0.323,0.601
+Pittsburgh Pirates,2021,8,127,0.324,0.339,0.664
+Pittsburgh Pirates,2021,9,120,0.286,0.345,0.631
+San Diego Padres,2021,1,89,0.325,0.391,0.716
+San Diego Padres,2021,2,93,0.333,0.386,0.719
+San Diego Padres,2021,3,132,0.347,0.404,0.751
+San Diego Padres,2021,4,121,0.297,0.344,0.642
+San Diego Padres,2021,5,130,0.322,0.408,0.73
+San Diego Padres,2021,6,131,0.332,0.373,0.706
+San Diego Padres,2021,7,123,0.291,0.361,0.652
+San Diego Padres,2021,8,104,0.272,0.334,0.607
+San Diego Padres,2021,9,103,0.342,0.395,0.737
+San Francisco Giants,2021,1,167,0.299,0.391,0.69
+San Francisco Giants,2021,2,157,0.333,0.419,0.752
+San Francisco Giants,2021,3,175,0.32,0.508,0.827
+San Francisco Giants,2021,4,168,0.339,0.463,0.802
+San Francisco Giants,2021,5,146,0.343,0.466,0.808
+San Francisco Giants,2021,6,129,0.313,0.492,0.806
+San Francisco Giants,2021,7,133,0.365,0.506,0.871
+San Francisco Giants,2021,8,133,0.319,0.479,0.798
+San Francisco Giants,2021,9,142,0.304,0.386,0.69
+Seattle Mariners,2021,1,79,0.282,0.313,0.595
+Seattle Mariners,2021,2,123,0.339,0.412,0.751
+Seattle Mariners,2021,3,167,0.334,0.448,0.782
+Seattle Mariners,2021,4,151,0.291,0.388,0.679
+Seattle Mariners,2021,5,154,0.273,0.364,0.637
+Seattle Mariners,2021,6,148,0.302,0.415,0.717
+Seattle Mariners,2021,7,155,0.288,0.341,0.628
+Seattle Mariners,2021,8,148,0.283,0.371,0.654
+Seattle Mariners,2021,9,166,0.32,0.426,0.746
+St. Louis Cardinals,2021,1,156,0.268,0.372,0.64
+St. Louis Cardinals,2021,2,120,0.276,0.347,0.623
+St. Louis Cardinals,2021,3,77,0.303,0.399,0.702
+St. Louis Cardinals,2021,4,71,0.318,0.449,0.767
+St. Louis Cardinals,2021,5,79,0.318,0.39,0.708
+St. Louis Cardinals,2021,6,86,0.322,0.435,0.757
+St. Louis Cardinals,2021,7,90,0.294,0.444,0.738
+St. Louis Cardinals,2021,8,104,0.329,0.513,0.842
+St. Louis Cardinals,2021,9,112,0.287,0.467,0.754
+Tampa Bay Rays,2021,1,140,0.288,0.425,0.712
+Tampa Bay Rays,2021,2,113,0.308,0.457,0.765
+Tampa Bay Rays,2021,3,131,0.295,0.416,0.712
+Tampa Bay Rays,2021,4,133,0.307,0.393,0.7
+Tampa Bay Rays,2021,5,141,0.286,0.387,0.673
+Tampa Bay Rays,2021,6,131,0.301,0.433,0.734
+Tampa Bay Rays,2021,7,145,0.333,0.484,0.816
+Tampa Bay Rays,2021,8,165,0.32,0.427,0.747
+Tampa Bay Rays,2021,9,157,0.334,0.434,0.768
+Texas Rangers,2021,1,128,0.252,0.365,0.616
+Texas Rangers,2021,2,129,0.289,0.38,0.668
+Texas Rangers,2021,3,137,0.309,0.354,0.663
+Texas Rangers,2021,4,143,0.288,0.362,0.65
+Texas Rangers,2021,5,136,0.275,0.379,0.654
+Texas Rangers,2021,6,131,0.319,0.43,0.75
+Texas Rangers,2021,7,135,0.298,0.383,0.681
+Texas Rangers,2021,8,170,0.293,0.38,0.673
+Texas Rangers,2021,9,167,0.264,0.34,0.604
+Toronto Blue Jays,2021,1,110,0.268,0.379,0.647
+Toronto Blue Jays,2021,2,133,0.307,0.469,0.776
+Toronto Blue Jays,2021,3,127,0.32,0.471,0.791
+Toronto Blue Jays,2021,4,138,0.325,0.534,0.86
+Toronto Blue Jays,2021,5,125,0.289,0.377,0.667
+Toronto Blue Jays,2021,6,139,0.322,0.458,0.78
+Toronto Blue Jays,2021,7,147,0.321,0.476,0.797
+Toronto Blue Jays,2021,8,159,0.376,0.5,0.876
+Toronto Blue Jays,2021,9,156,0.305,0.418,0.723
+Washington Nationals,2021,1,139,0.314,0.398,0.712
+Washington Nationals,2021,2,116,0.325,0.428,0.754
+Washington Nationals,2021,3,119,0.295,0.409,0.704
+Washington Nationals,2021,4,119,0.277,0.386,0.663
+Washington Nationals,2021,5,112,0.317,0.392,0.709
+Washington Nationals,2021,6,90,0.309,0.354,0.663
+Washington Nationals,2021,7,83,0.328,0.432,0.759
+Washington Nationals,2021,8,81,0.303,0.424,0.727
+Washington Nationals,2021,9,79,0.326,0.449,0.775
+,2022,1,2,0.0,0.0,0.0
+,2022,2,2,0.0,0.0,0.0
+,2022,3,2,0.0,0.0,0.0
+,2022,4,2,0.5,2.0,2.5
+,2022,5,2,0.5,0.5,1.0
+,2022,6,2,0.333,0.333,0.667
+,2022,7,2,0.75,1.5,2.25
+,2022,8,2,0.0,0.0,0.0
+,2022,9,2,0.0,0.0,0.0
+Arizona Diamondbacks,2022,1,116,0.282,0.454,0.735
+Arizona Diamondbacks,2022,2,79,0.342,0.484,0.826
+Arizona Diamondbacks,2022,3,97,0.315,0.463,0.779
+Arizona Diamondbacks,2022,4,111,0.264,0.37,0.634
+Arizona Diamondbacks,2022,5,119,0.298,0.389,0.687
+Arizona Diamondbacks,2022,6,125,0.296,0.355,0.652
+Arizona Diamondbacks,2022,7,128,0.299,0.371,0.67
+Arizona Diamondbacks,2022,8,133,0.307,0.331,0.638
+Arizona Diamondbacks,2022,9,133,0.307,0.397,0.705
+Athletics,2022,1,147,0.286,0.41,0.696
+Athletics,2022,2,128,0.277,0.337,0.615
+Athletics,2022,3,128,0.277,0.327,0.603
+Athletics,2022,4,102,0.249,0.368,0.618
+Athletics,2022,5,103,0.298,0.451,0.749
+Athletics,2022,6,123,0.307,0.403,0.71
+Athletics,2022,7,129,0.302,0.394,0.696
+Athletics,2022,8,139,0.252,0.318,0.57
+Athletics,2022,9,129,0.278,0.305,0.583
+Atlanta Braves,2022,1,106,0.279,0.438,0.716
+Atlanta Braves,2022,2,144,0.311,0.459,0.77
+Atlanta Braves,2022,3,141,0.284,0.444,0.728
+Atlanta Braves,2022,4,132,0.308,0.424,0.733
+Atlanta Braves,2022,5,120,0.328,0.434,0.762
+Atlanta Braves,2022,6,119,0.295,0.446,0.741
+Atlanta Braves,2022,7,131,0.346,0.5,0.846
+Atlanta Braves,2022,8,147,0.315,0.416,0.731
+Atlanta Braves,2022,9,139,0.341,0.506,0.847
+Baltimore Orioles,2022,1,116,0.288,0.425,0.714
+Baltimore Orioles,2022,2,99,0.272,0.346,0.619
+Baltimore Orioles,2022,3,104,0.317,0.44,0.757
+Baltimore Orioles,2022,4,116,0.26,0.325,0.585
+Baltimore Orioles,2022,5,128,0.296,0.417,0.713
+Baltimore Orioles,2022,6,127,0.305,0.382,0.687
+Baltimore Orioles,2022,7,139,0.315,0.471,0.786
+Baltimore Orioles,2022,8,130,0.295,0.41,0.705
+Baltimore Orioles,2022,9,129,0.326,0.414,0.74
+Boston Red Sox,2022,1,155,0.313,0.408,0.72
+Boston Red Sox,2022,2,160,0.313,0.366,0.679
+Boston Red Sox,2022,3,136,0.348,0.443,0.791
+Boston Red Sox,2022,4,134,0.352,0.49,0.842
+Boston Red Sox,2022,5,133,0.309,0.418,0.727
+Boston Red Sox,2022,6,116,0.319,0.414,0.733
+Boston Red Sox,2022,7,117,0.311,0.379,0.69
+Boston Red Sox,2022,8,125,0.319,0.413,0.732
+Boston Red Sox,2022,9,109,0.266,0.354,0.621
+Chicago Cubs,2022,1,91,0.285,0.361,0.646
+Chicago Cubs,2022,2,111,0.311,0.41,0.721
+Chicago Cubs,2022,3,142,0.289,0.376,0.666
+Chicago Cubs,2022,4,140,0.311,0.392,0.704
+Chicago Cubs,2022,5,126,0.316,0.355,0.671
+Chicago Cubs,2022,6,118,0.266,0.325,0.591
+Chicago Cubs,2022,7,142,0.315,0.437,0.752
+Chicago Cubs,2022,8,129,0.302,0.407,0.709
+Chicago Cubs,2022,9,118,0.299,0.404,0.703
+Chicago White Sox,2022,1,131,0.304,0.41,0.714
+Chicago White Sox,2022,2,151,0.31,0.374,0.684
+Chicago White Sox,2022,3,148,0.314,0.426,0.74
+Chicago White Sox,2022,4,158,0.296,0.373,0.669
+Chicago White Sox,2022,5,134,0.301,0.346,0.647
+Chicago White Sox,2022,6,126,0.333,0.428,0.761
+Chicago White Sox,2022,7,104,0.29,0.37,0.661
+Chicago White Sox,2022,8,98,0.277,0.305,0.582
+Chicago White Sox,2022,9,94,0.389,0.514,0.903
+Cincinnati Reds,2022,1,147,0.322,0.424,0.747
+Cincinnati Reds,2022,2,154,0.281,0.369,0.65
+Cincinnati Reds,2022,3,136,0.29,0.379,0.669
+Cincinnati Reds,2022,4,105,0.268,0.36,0.629
+Cincinnati Reds,2022,5,120,0.296,0.366,0.663
+Cincinnati Reds,2022,6,118,0.28,0.456,0.736
+Cincinnati Reds,2022,7,123,0.295,0.334,0.629
+Cincinnati Reds,2022,8,136,0.304,0.408,0.712
+Cincinnati Reds,2022,9,112,0.278,0.371,0.65
+Cleveland Guardians,2022,1,86,0.261,0.308,0.57
+Cleveland Guardians,2022,2,117,0.314,0.402,0.715
+Cleveland Guardians,2022,3,103,0.275,0.368,0.643
+Cleveland Guardians,2022,4,132,0.302,0.371,0.673
+Cleveland Guardians,2022,5,147,0.304,0.382,0.687
+Cleveland Guardians,2022,6,130,0.311,0.376,0.687
+Cleveland Guardians,2022,7,135,0.304,0.405,0.709
+Cleveland Guardians,2022,8,138,0.288,0.377,0.664
+Cleveland Guardians,2022,9,166,0.292,0.38,0.671
+Colorado Rockies,2022,1,147,0.321,0.44,0.761
+Colorado Rockies,2022,2,110,0.306,0.418,0.724
+Colorado Rockies,2022,3,117,0.3,0.404,0.704
+Colorado Rockies,2022,4,141,0.314,0.431,0.745
+Colorado Rockies,2022,5,153,0.279,0.353,0.632
+Colorado Rockies,2022,6,144,0.321,0.364,0.685
+Colorado Rockies,2022,7,121,0.298,0.34,0.638
+Colorado Rockies,2022,8,120,0.338,0.447,0.785
+Colorado Rockies,2022,9,104,0.324,0.402,0.725
+Detroit Tigers,2022,1,170,0.301,0.362,0.663
+Detroit Tigers,2022,2,107,0.285,0.357,0.641
+Detroit Tigers,2022,3,107,0.251,0.284,0.535
+Detroit Tigers,2022,4,120,0.286,0.354,0.641
+Detroit Tigers,2022,5,127,0.267,0.389,0.656
+Detroit Tigers,2022,6,124,0.257,0.293,0.55
+Detroit Tigers,2022,7,119,0.263,0.317,0.58
+Detroit Tigers,2022,8,108,0.304,0.382,0.686
+Detroit Tigers,2022,9,116,0.313,0.434,0.747
+Houston Astros,2022,1,173,0.272,0.389,0.661
+Houston Astros,2022,2,170,0.297,0.385,0.682
+Houston Astros,2022,3,175,0.307,0.396,0.703
+Houston Astros,2022,4,116,0.313,0.422,0.734
+Houston Astros,2022,5,97,0.311,0.386,0.697
+Houston Astros,2022,6,103,0.33,0.486,0.816
+Houston Astros,2022,7,97,0.352,0.477,0.829
+Houston Astros,2022,8,107,0.319,0.439,0.759
+Houston Astros,2022,9,113,0.321,0.507,0.828
+Kansas City Royals,2022,1,95,0.316,0.399,0.716
+Kansas City Royals,2022,2,129,0.295,0.36,0.655
+Kansas City Royals,2022,3,118,0.3,0.412,0.712
+Kansas City Royals,2022,4,110,0.287,0.427,0.715
+Kansas City Royals,2022,5,98,0.269,0.344,0.613
+Kansas City Royals,2022,6,118,0.323,0.389,0.713
+Kansas City Royals,2022,7,116,0.296,0.343,0.638
+Kansas City Royals,2022,8,113,0.295,0.396,0.69
+Kansas City Royals,2022,9,130,0.294,0.375,0.669
+Los Angeles Angels,2022,1,121,0.239,0.296,0.535
+Los Angeles Angels,2022,2,120,0.275,0.425,0.7
+Los Angeles Angels,2022,3,124,0.262,0.36,0.622
+Los Angeles Angels,2022,4,138,0.334,0.452,0.786
+Los Angeles Angels,2022,5,122,0.336,0.463,0.799
+Los Angeles Angels,2022,6,122,0.272,0.394,0.666
+Los Angeles Angels,2022,7,122,0.304,0.428,0.732
+Los Angeles Angels,2022,8,137,0.254,0.335,0.589
+Los Angeles Angels,2022,9,146,0.302,0.362,0.664
+Los Angeles Dodgers,2022,1,170,0.325,0.389,0.715
+Los Angeles Dodgers,2022,2,177,0.369,0.462,0.831
+Los Angeles Dodgers,2022,3,142,0.345,0.481,0.827
+Los Angeles Dodgers,2022,4,113,0.331,0.432,0.763
+Los Angeles Dodgers,2022,5,125,0.29,0.406,0.695
+Los Angeles Dodgers,2022,6,131,0.324,0.466,0.791
+Los Angeles Dodgers,2022,7,109,0.308,0.406,0.713
+Los Angeles Dodgers,2022,8,112,0.303,0.417,0.721
+Los Angeles Dodgers,2022,9,127,0.306,0.516,0.822
+Miami Marlins,2022,1,128,0.294,0.348,0.642
+Miami Marlins,2022,2,133,0.3,0.39,0.69
+Miami Marlins,2022,3,148,0.27,0.321,0.591
+Miami Marlins,2022,4,126,0.27,0.322,0.592
+Miami Marlins,2022,5,110,0.255,0.3,0.555
+Miami Marlins,2022,6,110,0.266,0.33,0.596
+Miami Marlins,2022,7,110,0.309,0.405,0.713
+Miami Marlins,2022,8,102,0.299,0.412,0.711
+Miami Marlins,2022,9,132,0.28,0.397,0.677
+Milwaukee Brewers,2022,1,170,0.304,0.362,0.665
+Milwaukee Brewers,2022,2,143,0.31,0.401,0.71
+Milwaukee Brewers,2022,3,131,0.295,0.371,0.666
+Milwaukee Brewers,2022,4,136,0.31,0.415,0.725
+Milwaukee Brewers,2022,5,131,0.31,0.407,0.717
+Milwaukee Brewers,2022,6,120,0.297,0.401,0.698
+Milwaukee Brewers,2022,7,126,0.296,0.38,0.676
+Milwaukee Brewers,2022,8,119,0.327,0.488,0.815
+Milwaukee Brewers,2022,9,127,0.293,0.413,0.706
+Minnesota Twins,2022,1,105,0.309,0.356,0.665
+Minnesota Twins,2022,2,121,0.323,0.398,0.721
+Minnesota Twins,2022,3,132,0.303,0.41,0.713
+Minnesota Twins,2022,4,127,0.33,0.514,0.844
+Minnesota Twins,2022,5,144,0.299,0.326,0.625
+Minnesota Twins,2022,6,126,0.323,0.452,0.775
+Minnesota Twins,2022,7,145,0.315,0.409,0.723
+Minnesota Twins,2022,8,142,0.298,0.425,0.723
+Minnesota Twins,2022,9,141,0.295,0.373,0.668
+New York Mets,2022,1,160,0.356,0.49,0.846
+New York Mets,2022,2,168,0.287,0.393,0.68
+New York Mets,2022,3,144,0.291,0.391,0.682
+New York Mets,2022,4,147,0.325,0.355,0.68
+New York Mets,2022,5,143,0.315,0.418,0.733
+New York Mets,2022,6,142,0.333,0.392,0.725
+New York Mets,2022,7,126,0.359,0.472,0.831
+New York Mets,2022,8,123,0.327,0.405,0.732
+New York Mets,2022,9,120,0.326,0.459,0.785
+New York Yankees,2022,1,124,0.251,0.317,0.568
+New York Yankees,2022,2,145,0.295,0.381,0.676
+New York Yankees,2022,3,166,0.298,0.413,0.711
+New York Yankees,2022,4,189,0.303,0.405,0.707
+New York Yankees,2022,5,172,0.336,0.434,0.77
+New York Yankees,2022,6,171,0.323,0.448,0.771
+New York Yankees,2022,7,127,0.31,0.44,0.75
+New York Yankees,2022,8,100,0.33,0.461,0.791
+New York Yankees,2022,9,106,0.406,0.571,0.977
+Philadelphia Phillies,2022,1,90,0.324,0.405,0.729
+Philadelphia Phillies,2022,2,119,0.314,0.406,0.72
+Philadelphia Phillies,2022,3,124,0.296,0.475,0.77
+Philadelphia Phillies,2022,4,148,0.332,0.451,0.782
+Philadelphia Phillies,2022,5,176,0.3,0.455,0.755
+Philadelphia Phillies,2022,6,166,0.339,0.444,0.782
+Philadelphia Phillies,2022,7,143,0.319,0.447,0.766
+Philadelphia Phillies,2022,8,121,0.281,0.35,0.631
+Philadelphia Phillies,2022,9,139,0.325,0.446,0.772
+Pittsburgh Pirates,2022,1,77,0.28,0.373,0.654
+Pittsburgh Pirates,2022,2,73,0.311,0.387,0.699
+Pittsburgh Pirates,2022,3,93,0.272,0.327,0.599
+Pittsburgh Pirates,2022,4,114,0.274,0.331,0.605
+Pittsburgh Pirates,2022,5,150,0.293,0.38,0.673
+Pittsburgh Pirates,2022,6,144,0.299,0.385,0.684
+Pittsburgh Pirates,2022,7,164,0.261,0.325,0.586
+Pittsburgh Pirates,2022,8,168,0.298,0.414,0.712
+Pittsburgh Pirates,2022,9,145,0.267,0.389,0.656
+San Diego Padres,2022,1,90,0.305,0.435,0.74
+San Diego Padres,2022,2,122,0.313,0.353,0.666
+San Diego Padres,2022,3,147,0.323,0.367,0.691
+San Diego Padres,2022,4,139,0.295,0.364,0.66
+San Diego Padres,2022,5,137,0.313,0.366,0.679
+San Diego Padres,2022,6,141,0.307,0.424,0.731
+San Diego Padres,2022,7,166,0.3,0.388,0.689
+San Diego Padres,2022,8,146,0.343,0.41,0.752
+San Diego Padres,2022,9,164,0.296,0.384,0.681
+San Francisco Giants,2022,1,172,0.321,0.453,0.774
+San Francisco Giants,2022,2,149,0.306,0.401,0.707
+San Francisco Giants,2022,3,146,0.294,0.409,0.703
+San Francisco Giants,2022,4,140,0.289,0.342,0.631
+San Francisco Giants,2022,5,112,0.286,0.365,0.651
+San Francisco Giants,2022,6,124,0.301,0.401,0.702
+San Francisco Giants,2022,7,148,0.331,0.441,0.773
+San Francisco Giants,2022,8,147,0.283,0.365,0.648
+San Francisco Giants,2022,9,112,0.288,0.361,0.65
+Seattle Mariners,2022,1,151,0.269,0.373,0.641
+Seattle Mariners,2022,2,119,0.305,0.356,0.661
+Seattle Mariners,2022,3,133,0.323,0.463,0.785
+Seattle Mariners,2022,4,129,0.32,0.377,0.697
+Seattle Mariners,2022,5,140,0.324,0.412,0.736
+Seattle Mariners,2022,6,138,0.277,0.39,0.667
+Seattle Mariners,2022,7,134,0.281,0.307,0.588
+Seattle Mariners,2022,8,128,0.295,0.353,0.649
+Seattle Mariners,2022,9,135,0.317,0.367,0.684
+St. Louis Cardinals,2022,1,145,0.333,0.529,0.862
+St. Louis Cardinals,2022,2,129,0.303,0.377,0.68
+St. Louis Cardinals,2022,3,116,0.357,0.467,0.823
+St. Louis Cardinals,2022,4,116,0.318,0.494,0.812
+St. Louis Cardinals,2022,5,106,0.375,0.598,0.973
+St. Louis Cardinals,2022,6,125,0.282,0.356,0.639
+St. Louis Cardinals,2022,7,113,0.328,0.443,0.771
+St. Louis Cardinals,2022,8,109,0.278,0.375,0.653
+St. Louis Cardinals,2022,9,115,0.26,0.319,0.579
+Tampa Bay Rays,2022,1,130,0.282,0.334,0.617
+Tampa Bay Rays,2022,2,113,0.319,0.398,0.717
+Tampa Bay Rays,2022,3,98,0.292,0.394,0.686
+Tampa Bay Rays,2022,4,112,0.253,0.275,0.529
+Tampa Bay Rays,2022,5,114,0.328,0.441,0.768
+Tampa Bay Rays,2022,6,126,0.341,0.406,0.747
+Tampa Bay Rays,2022,7,129,0.296,0.36,0.656
+Tampa Bay Rays,2022,8,151,0.276,0.342,0.618
+Tampa Bay Rays,2022,9,142,0.315,0.373,0.688
+Texas Rangers,2022,1,112,0.347,0.457,0.804
+Texas Rangers,2022,2,126,0.333,0.474,0.807
+Texas Rangers,2022,3,122,0.29,0.401,0.691
+Texas Rangers,2022,4,117,0.277,0.352,0.629
+Texas Rangers,2022,5,125,0.304,0.441,0.745
+Texas Rangers,2022,6,121,0.31,0.401,0.711
+Texas Rangers,2022,7,144,0.293,0.397,0.69
+Texas Rangers,2022,8,133,0.309,0.461,0.769
+Texas Rangers,2022,9,120,0.263,0.324,0.587
+Toronto Blue Jays,2022,1,92,0.303,0.374,0.678
+Toronto Blue Jays,2022,2,99,0.329,0.44,0.77
+Toronto Blue Jays,2022,3,119,0.292,0.422,0.715
+Toronto Blue Jays,2022,4,95,0.358,0.528,0.886
+Toronto Blue Jays,2022,5,135,0.296,0.371,0.667
+Toronto Blue Jays,2022,6,154,0.306,0.486,0.792
+Toronto Blue Jays,2022,7,140,0.341,0.497,0.838
+Toronto Blue Jays,2022,8,152,0.34,0.457,0.796
+Toronto Blue Jays,2022,9,124,0.351,0.43,0.781
+Washington Nationals,2022,1,159,0.29,0.329,0.619
+Washington Nationals,2022,2,133,0.296,0.37,0.665
+Washington Nationals,2022,3,131,0.279,0.344,0.623
+Washington Nationals,2022,4,129,0.304,0.396,0.7
+Washington Nationals,2022,5,112,0.301,0.356,0.657
+Washington Nationals,2022,6,94,0.299,0.378,0.678
+Washington Nationals,2022,7,111,0.323,0.451,0.773
+Washington Nationals,2022,8,123,0.295,0.411,0.706
+Washington Nationals,2022,9,137,0.342,0.439,0.781
+,2023,1,2,0.5,0.75,1.25
+,2023,2,2,0.5,0.667,1.167
+,2023,3,2,0.333,0.333,0.667
+,2023,4,2,0.0,0.0,0.0
+,2023,5,2,0.25,1.0,1.25
+,2023,6,2,0.0,0.0,0.0
+,2023,7,2,0.4,0.25,0.65
+,2023,8,2,0.25,0.25,0.5
+,2023,9,2,0.5,0.5,1.0
+Arizona Diamondbacks,2023,1,168,0.286,0.388,0.675
+Arizona Diamondbacks,2023,2,130,0.354,0.485,0.839
+Arizona Diamondbacks,2023,3,132,0.31,0.386,0.696
+Arizona Diamondbacks,2023,4,141,0.351,0.482,0.833
+Arizona Diamondbacks,2023,5,160,0.279,0.351,0.63
+Arizona Diamondbacks,2023,6,163,0.325,0.44,0.765
+Arizona Diamondbacks,2023,7,165,0.333,0.413,0.746
+Arizona Diamondbacks,2023,8,158,0.308,0.381,0.688
+Arizona Diamondbacks,2023,9,168,0.312,0.378,0.69
+Athletics,2023,1,125,0.285,0.433,0.718
+Athletics,2023,2,123,0.295,0.385,0.681
+Athletics,2023,3,125,0.289,0.415,0.704
+Athletics,2023,4,140,0.287,0.309,0.596
+Athletics,2023,5,140,0.278,0.288,0.566
+Athletics,2023,6,178,0.283,0.357,0.64
+Athletics,2023,7,168,0.264,0.325,0.589
+Athletics,2023,8,160,0.31,0.415,0.725
+Athletics,2023,9,188,0.271,0.387,0.658
+Atlanta Braves,2023,1,165,0.318,0.513,0.831
+Atlanta Braves,2023,2,178,0.339,0.481,0.82
+Atlanta Braves,2023,3,144,0.345,0.558,0.904
+Atlanta Braves,2023,4,137,0.356,0.493,0.849
+Atlanta Braves,2023,5,164,0.353,0.52,0.873
+Atlanta Braves,2023,6,159,0.345,0.487,0.833
+Atlanta Braves,2023,7,157,0.338,0.549,0.887
+Atlanta Braves,2023,8,155,0.318,0.424,0.742
+Atlanta Braves,2023,9,137,0.331,0.475,0.806
+Baltimore Orioles,2023,1,117,0.32,0.441,0.76
+Baltimore Orioles,2023,2,138,0.311,0.386,0.697
+Baltimore Orioles,2023,3,117,0.326,0.45,0.776
+Baltimore Orioles,2023,4,144,0.305,0.421,0.726
+Baltimore Orioles,2023,5,144,0.327,0.405,0.732
+Baltimore Orioles,2023,6,179,0.308,0.386,0.695
+Baltimore Orioles,2023,7,165,0.305,0.381,0.686
+Baltimore Orioles,2023,8,180,0.323,0.474,0.797
+Baltimore Orioles,2023,9,157,0.322,0.425,0.747
+Boston Red Sox,2023,1,197,0.31,0.404,0.714
+Boston Red Sox,2023,2,129,0.306,0.449,0.754
+Boston Red Sox,2023,3,146,0.295,0.398,0.693
+Boston Red Sox,2023,4,133,0.306,0.468,0.774
+Boston Red Sox,2023,5,121,0.324,0.414,0.739
+Boston Red Sox,2023,6,144,0.308,0.387,0.695
+Boston Red Sox,2023,7,132,0.309,0.404,0.713
+Boston Red Sox,2023,8,140,0.331,0.396,0.727
+Boston Red Sox,2023,9,140,0.339,0.438,0.778
+Chicago Cubs,2023,1,125,0.298,0.333,0.631
+Chicago Cubs,2023,2,159,0.34,0.428,0.768
+Chicago Cubs,2023,3,131,0.333,0.413,0.746
+Chicago Cubs,2023,4,156,0.315,0.435,0.75
+Chicago Cubs,2023,5,171,0.35,0.486,0.835
+Chicago Cubs,2023,6,170,0.285,0.368,0.653
+Chicago Cubs,2023,7,180,0.319,0.438,0.757
+Chicago Cubs,2023,8,155,0.319,0.403,0.722
+Chicago Cubs,2023,9,148,0.335,0.469,0.803
+Chicago White Sox,2023,1,182,0.29,0.367,0.657
+Chicago White Sox,2023,2,164,0.293,0.343,0.635
+Chicago White Sox,2023,3,122,0.267,0.288,0.555
+Chicago White Sox,2023,4,95,0.285,0.432,0.717
+Chicago White Sox,2023,5,113,0.294,0.38,0.674
+Chicago White Sox,2023,6,122,0.268,0.388,0.656
+Chicago White Sox,2023,7,146,0.293,0.416,0.709
+Chicago White Sox,2023,8,147,0.305,0.411,0.716
+Chicago White Sox,2023,9,153,0.284,0.398,0.682
+Cincinnati Reds,2023,1,130,0.299,0.444,0.743
+Cincinnati Reds,2023,2,139,0.319,0.353,0.672
+Cincinnati Reds,2023,3,143,0.294,0.41,0.704
+Cincinnati Reds,2023,4,148,0.305,0.4,0.705
+Cincinnati Reds,2023,5,140,0.32,0.414,0.734
+Cincinnati Reds,2023,6,137,0.29,0.361,0.651
+Cincinnati Reds,2023,7,136,0.324,0.445,0.769
+Cincinnati Reds,2023,8,146,0.348,0.468,0.816
+Cincinnati Reds,2023,9,158,0.318,0.389,0.706
+Cleveland Guardians,2023,1,88,0.304,0.401,0.705
+Cleveland Guardians,2023,2,125,0.31,0.427,0.737
+Cleveland Guardians,2023,3,145,0.271,0.383,0.655
+Cleveland Guardians,2023,4,166,0.293,0.342,0.636
+Cleveland Guardians,2023,5,152,0.315,0.431,0.746
+Cleveland Guardians,2023,6,142,0.303,0.371,0.674
+Cleveland Guardians,2023,7,141,0.303,0.357,0.659
+Cleveland Guardians,2023,8,153,0.319,0.35,0.669
+Cleveland Guardians,2023,9,167,0.336,0.412,0.748
+Colorado Rockies,2023,1,165,0.339,0.431,0.771
+Colorado Rockies,2023,2,132,0.348,0.483,0.831
+Colorado Rockies,2023,3,134,0.303,0.363,0.666
+Colorado Rockies,2023,4,154,0.31,0.427,0.737
+Colorado Rockies,2023,5,141,0.273,0.371,0.644
+Colorado Rockies,2023,6,127,0.337,0.444,0.781
+Colorado Rockies,2023,7,136,0.322,0.432,0.754
+Colorado Rockies,2023,8,147,0.294,0.358,0.652
+Colorado Rockies,2023,9,136,0.299,0.433,0.731
+Detroit Tigers,2023,1,163,0.319,0.376,0.695
+Detroit Tigers,2023,2,106,0.282,0.317,0.599
+Detroit Tigers,2023,3,141,0.28,0.391,0.671
+Detroit Tigers,2023,4,147,0.276,0.344,0.62
+Detroit Tigers,2023,5,155,0.277,0.328,0.605
+Detroit Tigers,2023,6,151,0.272,0.323,0.595
+Detroit Tigers,2023,7,142,0.321,0.415,0.736
+Detroit Tigers,2023,8,142,0.319,0.429,0.747
+Detroit Tigers,2023,9,148,0.315,0.408,0.723
+Houston Astros,2023,1,198,0.319,0.455,0.773
+Houston Astros,2023,2,169,0.32,0.395,0.715
+Houston Astros,2023,3,162,0.327,0.429,0.756
+Houston Astros,2023,4,154,0.33,0.445,0.775
+Houston Astros,2023,5,138,0.34,0.411,0.751
+Houston Astros,2023,6,146,0.313,0.476,0.79
+Houston Astros,2023,7,145,0.329,0.438,0.767
+Houston Astros,2023,8,169,0.323,0.452,0.775
+Houston Astros,2023,9,134,0.33,0.496,0.826
+Kansas City Royals,2023,1,158,0.312,0.428,0.74
+Kansas City Royals,2023,2,134,0.27,0.386,0.656
+Kansas City Royals,2023,3,113,0.302,0.404,0.706
+Kansas City Royals,2023,4,134,0.263,0.353,0.616
+Kansas City Royals,2023,5,141,0.285,0.351,0.636
+Kansas City Royals,2023,6,132,0.306,0.438,0.744
+Kansas City Royals,2023,7,140,0.312,0.369,0.681
+Kansas City Royals,2023,8,136,0.303,0.376,0.679
+Kansas City Royals,2023,9,160,0.29,0.386,0.676
+Los Angeles Angels,2023,1,146,0.265,0.329,0.593
+Los Angeles Angels,2023,2,175,0.311,0.46,0.771
+Los Angeles Angels,2023,3,171,0.318,0.489,0.807
+Los Angeles Angels,2023,4,181,0.318,0.4,0.718
+Los Angeles Angels,2023,5,172,0.329,0.432,0.761
+Los Angeles Angels,2023,6,154,0.329,0.55,0.879
+Los Angeles Angels,2023,7,133,0.309,0.391,0.7
+Los Angeles Angels,2023,8,112,0.338,0.532,0.87
+Los Angeles Angels,2023,9,118,0.276,0.348,0.625
+Los Angeles Dodgers,2023,1,213,0.317,0.428,0.745
+Los Angeles Dodgers,2023,2,177,0.308,0.436,0.743
+Los Angeles Dodgers,2023,3,171,0.361,0.514,0.875
+Los Angeles Dodgers,2023,4,161,0.361,0.503,0.863
+Los Angeles Dodgers,2023,5,140,0.333,0.5,0.833
+Los Angeles Dodgers,2023,6,116,0.321,0.452,0.773
+Los Angeles Dodgers,2023,7,124,0.328,0.484,0.812
+Los Angeles Dodgers,2023,8,122,0.327,0.383,0.71
+Los Angeles Dodgers,2023,9,148,0.357,0.494,0.851
+Miami Marlins,2023,1,197,0.314,0.39,0.704
+Miami Marlins,2023,2,195,0.305,0.358,0.663
+Miami Marlins,2023,3,178,0.332,0.444,0.776
+Miami Marlins,2023,4,142,0.332,0.429,0.762
+Miami Marlins,2023,5,145,0.315,0.403,0.718
+Miami Marlins,2023,6,144,0.276,0.324,0.599
+Miami Marlins,2023,7,158,0.295,0.387,0.682
+Miami Marlins,2023,8,145,0.325,0.485,0.81
+Miami Marlins,2023,9,136,0.297,0.403,0.7
+Milwaukee Brewers,2023,1,139,0.334,0.455,0.789
+Milwaukee Brewers,2023,2,138,0.363,0.412,0.775
+Milwaukee Brewers,2023,3,174,0.302,0.4,0.701
+Milwaukee Brewers,2023,4,167,0.361,0.463,0.824
+Milwaukee Brewers,2023,5,141,0.277,0.305,0.582
+Milwaukee Brewers,2023,6,139,0.295,0.306,0.601
+Milwaukee Brewers,2023,7,145,0.275,0.364,0.64
+Milwaukee Brewers,2023,8,130,0.273,0.343,0.615
+Milwaukee Brewers,2023,9,154,0.312,0.388,0.699
+Minnesota Twins,2023,1,198,0.32,0.365,0.686
+Minnesota Twins,2023,2,148,0.318,0.426,0.744
+Minnesota Twins,2023,3,154,0.313,0.413,0.725
+Minnesota Twins,2023,4,171,0.279,0.397,0.676
+Minnesota Twins,2023,5,179,0.303,0.385,0.688
+Minnesota Twins,2023,6,173,0.31,0.496,0.805
+Minnesota Twins,2023,7,164,0.339,0.451,0.79
+Minnesota Twins,2023,8,185,0.302,0.408,0.71
+Minnesota Twins,2023,9,155,0.32,0.452,0.773
+New York Mets,2023,1,168,0.302,0.435,0.738
+New York Mets,2023,2,166,0.298,0.374,0.673
+New York Mets,2023,3,159,0.327,0.438,0.765
+New York Mets,2023,4,135,0.323,0.448,0.771
+New York Mets,2023,5,135,0.303,0.368,0.671
+New York Mets,2023,6,120,0.296,0.367,0.663
+New York Mets,2023,7,127,0.351,0.486,0.837
+New York Mets,2023,8,138,0.296,0.443,0.739
+New York Mets,2023,9,150,0.282,0.386,0.669
+New York Yankees,2023,1,165,0.301,0.396,0.697
+New York Yankees,2023,2,221,0.328,0.42,0.749
+New York Yankees,2023,3,189,0.272,0.345,0.617
+New York Yankees,2023,4,163,0.307,0.431,0.738
+New York Yankees,2023,5,141,0.318,0.428,0.746
+New York Yankees,2023,6,120,0.299,0.412,0.71
+New York Yankees,2023,7,110,0.292,0.444,0.736
+New York Yankees,2023,8,106,0.264,0.313,0.577
+New York Yankees,2023,9,125,0.265,0.353,0.618
+Philadelphia Phillies,2023,1,103,0.352,0.474,0.826
+Philadelphia Phillies,2023,2,141,0.349,0.461,0.81
+Philadelphia Phillies,2023,3,184,0.327,0.486,0.813
+Philadelphia Phillies,2023,4,199,0.314,0.479,0.793
+Philadelphia Phillies,2023,5,193,0.305,0.423,0.728
+Philadelphia Phillies,2023,6,155,0.283,0.349,0.632
+Philadelphia Phillies,2023,7,152,0.316,0.387,0.703
+Philadelphia Phillies,2023,8,141,0.335,0.456,0.791
+Philadelphia Phillies,2023,9,127,0.291,0.424,0.716
+Pittsburgh Pirates,2023,1,147,0.335,0.392,0.727
+Pittsburgh Pirates,2023,2,155,0.314,0.432,0.746
+Pittsburgh Pirates,2023,3,110,0.266,0.314,0.58
+Pittsburgh Pirates,2023,4,127,0.326,0.371,0.697
+Pittsburgh Pirates,2023,5,135,0.313,0.405,0.718
+Pittsburgh Pirates,2023,6,150,0.282,0.366,0.648
+Pittsburgh Pirates,2023,7,159,0.31,0.425,0.735
+Pittsburgh Pirates,2023,8,146,0.325,0.398,0.723
+Pittsburgh Pirates,2023,9,173,0.321,0.446,0.768
+San Diego Padres,2023,1,121,0.267,0.335,0.602
+San Diego Padres,2023,2,121,0.29,0.367,0.656
+San Diego Padres,2023,3,154,0.331,0.439,0.77
+San Diego Padres,2023,4,159,0.295,0.361,0.656
+San Diego Padres,2023,5,186,0.337,0.434,0.771
+San Diego Padres,2023,6,171,0.354,0.482,0.835
+San Diego Padres,2023,7,158,0.335,0.463,0.798
+San Diego Padres,2023,8,168,0.301,0.363,0.664
+San Diego Padres,2023,9,138,0.323,0.402,0.724
+San Francisco Giants,2023,1,136,0.33,0.469,0.799
+San Francisco Giants,2023,2,172,0.289,0.416,0.704
+San Francisco Giants,2023,3,145,0.283,0.288,0.571
+San Francisco Giants,2023,4,147,0.289,0.388,0.677
+San Francisco Giants,2023,5,168,0.331,0.429,0.76
+San Francisco Giants,2023,6,150,0.326,0.398,0.724
+San Francisco Giants,2023,7,161,0.3,0.376,0.676
+San Francisco Giants,2023,8,146,0.316,0.388,0.704
+San Francisco Giants,2023,9,139,0.27,0.319,0.59
+Seattle Mariners,2023,1,111,0.291,0.437,0.727
+Seattle Mariners,2023,2,146,0.305,0.351,0.655
+Seattle Mariners,2023,3,187,0.328,0.438,0.766
+Seattle Mariners,2023,4,136,0.271,0.304,0.575
+Seattle Mariners,2023,5,148,0.321,0.469,0.79
+Seattle Mariners,2023,6,137,0.3,0.453,0.753
+Seattle Mariners,2023,7,151,0.328,0.413,0.741
+Seattle Mariners,2023,8,150,0.353,0.473,0.825
+Seattle Mariners,2023,9,139,0.278,0.376,0.654
+St. Louis Cardinals,2023,1,150,0.329,0.399,0.728
+St. Louis Cardinals,2023,2,124,0.347,0.452,0.799
+St. Louis Cardinals,2023,3,157,0.321,0.413,0.734
+St. Louis Cardinals,2023,4,175,0.325,0.46,0.786
+St. Louis Cardinals,2023,5,143,0.312,0.433,0.745
+St. Louis Cardinals,2023,6,131,0.289,0.394,0.683
+St. Louis Cardinals,2023,7,126,0.293,0.381,0.674
+St. Louis Cardinals,2023,8,123,0.333,0.412,0.745
+St. Louis Cardinals,2023,9,147,0.314,0.4,0.714
+Tampa Bay Rays,2023,1,103,0.343,0.5,0.843
+Tampa Bay Rays,2023,2,108,0.3,0.37,0.669
+Tampa Bay Rays,2023,3,116,0.29,0.482,0.772
+Tampa Bay Rays,2023,4,145,0.317,0.436,0.754
+Tampa Bay Rays,2023,5,169,0.325,0.408,0.733
+Tampa Bay Rays,2023,6,178,0.352,0.514,0.866
+Tampa Bay Rays,2023,7,194,0.304,0.419,0.722
+Tampa Bay Rays,2023,8,183,0.33,0.443,0.772
+Tampa Bay Rays,2023,9,174,0.325,0.454,0.779
+Texas Rangers,2023,1,135,0.339,0.424,0.764
+Texas Rangers,2023,2,178,0.329,0.42,0.748
+Texas Rangers,2023,3,181,0.364,0.507,0.871
+Texas Rangers,2023,4,163,0.322,0.406,0.728
+Texas Rangers,2023,5,140,0.348,0.484,0.832
+Texas Rangers,2023,6,156,0.347,0.529,0.876
+Texas Rangers,2023,7,169,0.346,0.466,0.811
+Texas Rangers,2023,8,166,0.309,0.42,0.729
+Texas Rangers,2023,9,150,0.303,0.417,0.719
+Toronto Blue Jays,2023,1,162,0.339,0.461,0.801
+Toronto Blue Jays,2023,2,180,0.293,0.394,0.688
+Toronto Blue Jays,2023,3,183,0.315,0.42,0.734
+Toronto Blue Jays,2023,4,154,0.295,0.416,0.711
+Toronto Blue Jays,2023,5,167,0.346,0.444,0.79
+Toronto Blue Jays,2023,6,160,0.281,0.344,0.625
+Toronto Blue Jays,2023,7,133,0.337,0.389,0.725
+Toronto Blue Jays,2023,8,142,0.333,0.442,0.775
+Toronto Blue Jays,2023,9,127,0.316,0.376,0.692
+Washington Nationals,2023,1,117,0.283,0.391,0.674
+Washington Nationals,2023,2,137,0.326,0.428,0.754
+Washington Nationals,2023,3,139,0.298,0.394,0.692
+Washington Nationals,2023,4,144,0.283,0.367,0.65
+Washington Nationals,2023,5,133,0.341,0.41,0.751
+Washington Nationals,2023,6,163,0.298,0.401,0.699
+Washington Nationals,2023,7,148,0.296,0.406,0.703
+Washington Nationals,2023,8,164,0.327,0.416,0.743
+Washington Nationals,2023,9,151,0.299,0.377,0.676
+Arizona Diamondbacks,2024,1,19,0.328,0.375,0.703
+Arizona Diamondbacks,2024,2,27,0.316,0.455,0.77
+Arizona Diamondbacks,2024,3,29,0.287,0.356,0.643
+Arizona Diamondbacks,2024,4,31,0.28,0.231,0.511
+Arizona Diamondbacks,2024,5,26,0.398,0.471,0.869
+Arizona Diamondbacks,2024,6,30,0.345,0.486,0.831
+Arizona Diamondbacks,2024,7,25,0.293,0.365,0.658
+Arizona Diamondbacks,2024,8,31,0.304,0.4,0.704
+Arizona Diamondbacks,2024,9,24,0.247,0.333,0.581
+Athletics,2024,1,18,0.196,0.321,0.517
+Athletics,2024,2,28,0.287,0.308,0.595
+Athletics,2024,3,29,0.267,0.35,0.617
+Athletics,2024,4,29,0.214,0.253,0.466
+Athletics,2024,5,28,0.289,0.426,0.714
+Athletics,2024,6,32,0.287,0.267,0.554
+Athletics,2024,7,33,0.317,0.482,0.799
+Athletics,2024,8,31,0.216,0.417,0.632
+Athletics,2024,9,32,0.271,0.356,0.627
+Atlanta Braves,2024,1,30,0.36,0.55,0.91
+Atlanta Braves,2024,2,30,0.341,0.404,0.745
+Atlanta Braves,2024,3,21,0.341,0.512,0.853
+Atlanta Braves,2024,4,19,0.39,0.622,1.011
+Atlanta Braves,2024,5,22,0.303,0.346,0.649
+Atlanta Braves,2024,6,23,0.284,0.288,0.572
+Atlanta Braves,2024,7,23,0.313,0.443,0.756
+Atlanta Braves,2024,8,21,0.322,0.354,0.675
+Atlanta Braves,2024,9,20,0.271,0.358,0.63
+Baltimore Orioles,2024,1,16,0.328,0.482,0.81
+Baltimore Orioles,2024,2,20,0.268,0.382,0.65
+Baltimore Orioles,2024,3,26,0.287,0.379,0.666
+Baltimore Orioles,2024,4,23,0.337,0.45,0.787
+Baltimore Orioles,2024,5,23,0.225,0.25,0.475
+Baltimore Orioles,2024,6,30,0.282,0.454,0.736
+Baltimore Orioles,2024,7,29,0.274,0.5,0.774
+Baltimore Orioles,2024,8,26,0.402,0.62,1.022
+Baltimore Orioles,2024,9,20,0.424,0.541,0.965
+Boston Red Sox,2024,1,23,0.28,0.203,0.483
+Boston Red Sox,2024,2,19,0.215,0.254,0.469
+Boston Red Sox,2024,3,24,0.314,0.382,0.696
+Boston Red Sox,2024,4,30,0.346,0.418,0.763
+Boston Red Sox,2024,5,32,0.378,0.587,0.965
+Boston Red Sox,2024,6,24,0.372,0.583,0.955
+Boston Red Sox,2024,7,29,0.327,0.516,0.843
+Boston Red Sox,2024,8,32,0.266,0.376,0.642
+Boston Red Sox,2024,9,29,0.313,0.454,0.767
+Chicago Cubs,2024,1,22,0.325,0.342,0.667
+Chicago Cubs,2024,2,24,0.279,0.296,0.575
+Chicago Cubs,2024,3,22,0.318,0.382,0.699
+Chicago Cubs,2024,4,21,0.284,0.324,0.608
+Chicago Cubs,2024,5,19,0.375,0.581,0.956
+Chicago Cubs,2024,6,24,0.319,0.383,0.701
+Chicago Cubs,2024,7,31,0.271,0.382,0.653
+Chicago Cubs,2024,8,20,0.233,0.309,0.542
+Chicago Cubs,2024,9,33,0.336,0.427,0.763
+Chicago White Sox,2024,1,29,0.28,0.322,0.602
+Chicago White Sox,2024,2,24,0.315,0.345,0.66
+Chicago White Sox,2024,3,22,0.2,0.167,0.367
+Chicago White Sox,2024,4,20,0.338,0.288,0.626
+Chicago White Sox,2024,5,24,0.25,0.337,0.587
+Chicago White Sox,2024,6,20,0.217,0.228,0.445
+Chicago White Sox,2024,7,28,0.271,0.264,0.535
+Chicago White Sox,2024,8,30,0.238,0.33,0.568
+Chicago White Sox,2024,9,28,0.314,0.505,0.819
+Cincinnati Reds,2024,1,15,0.377,0.422,0.8
+Cincinnati Reds,2024,2,31,0.327,0.384,0.711
+Cincinnati Reds,2024,3,30,0.296,0.367,0.664
+Cincinnati Reds,2024,4,36,0.311,0.342,0.653
+Cincinnati Reds,2024,5,29,0.25,0.33,0.58
+Cincinnati Reds,2024,6,24,0.269,0.386,0.655
+Cincinnati Reds,2024,7,28,0.274,0.306,0.58
+Cincinnati Reds,2024,8,27,0.242,0.276,0.518
+Cincinnati Reds,2024,9,24,0.267,0.375,0.642
+Cleveland Guardians,2024,1,25,0.222,0.341,0.563
+Cleveland Guardians,2024,2,16,0.266,0.393,0.659
+Cleveland Guardians,2024,3,18,0.333,0.475,0.809
+Cleveland Guardians,2024,4,30,0.287,0.321,0.608
+Cleveland Guardians,2024,5,28,0.367,0.559,0.926
+Cleveland Guardians,2024,6,26,0.277,0.333,0.611
+Cleveland Guardians,2024,7,24,0.352,0.365,0.716
+Cleveland Guardians,2024,8,30,0.248,0.273,0.52
+Cleveland Guardians,2024,9,28,0.25,0.265,0.515
+Colorado Rockies,2024,1,29,0.278,0.324,0.602
+Colorado Rockies,2024,2,20,0.239,0.279,0.519
+Colorado Rockies,2024,3,24,0.323,0.337,0.66
+Colorado Rockies,2024,4,18,0.233,0.293,0.526
+Colorado Rockies,2024,5,16,0.386,0.426,0.811
+Colorado Rockies,2024,6,16,0.339,0.52,0.859
+Colorado Rockies,2024,7,16,0.266,0.35,0.616
+Colorado Rockies,2024,8,20,0.275,0.311,0.586
+Colorado Rockies,2024,9,21,0.36,0.449,0.809
+Detroit Tigers,2024,1,15,0.353,0.592,0.945
+Detroit Tigers,2024,2,33,0.289,0.336,0.626
+Detroit Tigers,2024,3,23,0.309,0.306,0.614
+Detroit Tigers,2024,4,30,0.216,0.24,0.455
+Detroit Tigers,2024,5,21,0.225,0.206,0.432
+Detroit Tigers,2024,6,18,0.309,0.469,0.778
+Detroit Tigers,2024,7,24,0.247,0.321,0.568
+Detroit Tigers,2024,8,24,0.293,0.429,0.721
+Detroit Tigers,2024,9,25,0.31,0.289,0.6
+Houston Astros,2024,1,32,0.368,0.504,0.872
+Houston Astros,2024,2,19,0.308,0.423,0.73
+Houston Astros,2024,3,28,0.272,0.309,0.58
+Houston Astros,2024,4,30,0.311,0.378,0.689
+Houston Astros,2024,5,28,0.309,0.4,0.709
+Houston Astros,2024,6,26,0.264,0.452,0.716
+Houston Astros,2024,7,22,0.376,0.494,0.87
+Houston Astros,2024,8,27,0.32,0.363,0.683
+Houston Astros,2024,9,24,0.47,0.685,1.155
+Kansas City Royals,2024,1,19,0.373,0.533,0.906
+Kansas City Royals,2024,2,33,0.294,0.383,0.677
+Kansas City Royals,2024,3,21,0.246,0.338,0.585
+Kansas City Royals,2024,4,21,0.257,0.328,0.585
+Kansas City Royals,2024,5,26,0.287,0.239,0.526
+Kansas City Royals,2024,6,20,0.319,0.448,0.767
+Kansas City Royals,2024,7,22,0.298,0.342,0.639
+Kansas City Royals,2024,8,27,0.253,0.218,0.471
+Kansas City Royals,2024,9,15,0.393,0.614,1.007
+Los Angeles Angels,2024,1,27,0.355,0.317,0.672
+Los Angeles Angels,2024,2,33,0.313,0.472,0.785
+Los Angeles Angels,2024,3,35,0.291,0.333,0.624
+Los Angeles Angels,2024,4,32,0.322,0.369,0.691
+Los Angeles Angels,2024,5,27,0.33,0.487,0.817
+Los Angeles Angels,2024,6,21,0.216,0.329,0.545
+Los Angeles Angels,2024,7,13,0.354,0.587,0.941
+Los Angeles Angels,2024,8,20,0.232,0.231,0.463
+Los Angeles Angels,2024,9,24,0.333,0.372,0.705
+Los Angeles Dodgers,2024,1,27,0.3,0.38,0.68
+Los Angeles Dodgers,2024,2,27,0.39,0.354,0.744
+Los Angeles Dodgers,2024,3,22,0.291,0.362,0.653
+Los Angeles Dodgers,2024,4,25,0.365,0.404,0.769
+Los Angeles Dodgers,2024,5,24,0.33,0.566,0.896
+Los Angeles Dodgers,2024,6,19,0.264,0.313,0.577
+Los Angeles Dodgers,2024,7,32,0.411,0.491,0.902
+Los Angeles Dodgers,2024,8,24,0.295,0.356,0.651
+Los Angeles Dodgers,2024,9,23,0.369,0.579,0.948
+Miami Marlins,2024,1,30,0.313,0.363,0.676
+Miami Marlins,2024,2,35,0.265,0.375,0.64
+Miami Marlins,2024,3,31,0.313,0.425,0.737
+Miami Marlins,2024,4,27,0.276,0.315,0.591
+Miami Marlins,2024,5,32,0.277,0.41,0.687
+Miami Marlins,2024,6,21,0.212,0.238,0.45
+Miami Marlins,2024,7,34,0.288,0.31,0.598
+Miami Marlins,2024,8,24,0.318,0.377,0.694
+Miami Marlins,2024,9,26,0.284,0.281,0.566
+Milwaukee Brewers,2024,1,23,0.438,0.627,1.064
+Milwaukee Brewers,2024,2,13,0.378,0.462,0.839
+Milwaukee Brewers,2024,3,18,0.329,0.537,0.866
+Milwaukee Brewers,2024,4,24,0.264,0.35,0.614
+Milwaukee Brewers,2024,5,19,0.289,0.329,0.618
+Milwaukee Brewers,2024,6,27,0.25,0.367,0.617
+Milwaukee Brewers,2024,7,22,0.382,0.55,0.932
+Milwaukee Brewers,2024,8,24,0.451,0.506,0.957
+Milwaukee Brewers,2024,9,34,0.305,0.284,0.59
+Minnesota Twins,2024,1,38,0.293,0.399,0.692
+Minnesota Twins,2024,2,29,0.245,0.258,0.503
+Minnesota Twins,2024,3,30,0.274,0.38,0.654
+Minnesota Twins,2024,4,25,0.402,0.525,0.927
+Minnesota Twins,2024,5,33,0.358,0.569,0.927
+Minnesota Twins,2024,6,29,0.34,0.386,0.726
+Minnesota Twins,2024,7,27,0.283,0.337,0.62
+Minnesota Twins,2024,8,28,0.233,0.391,0.624
+Minnesota Twins,2024,9,27,0.39,0.557,0.947
+New York Mets,2024,1,41,0.343,0.5,0.843
+New York Mets,2024,2,23,0.396,0.595,0.991
+New York Mets,2024,3,28,0.301,0.447,0.748
+New York Mets,2024,4,18,0.319,0.288,0.607
+New York Mets,2024,5,23,0.29,0.271,0.561
+New York Mets,2024,6,32,0.358,0.447,0.804
+New York Mets,2024,7,26,0.344,0.506,0.85
+New York Mets,2024,8,29,0.257,0.358,0.614
+New York Mets,2024,9,26,0.318,0.307,0.625
+New York Yankees,2024,1,32,0.31,0.381,0.691
+New York Yankees,2024,2,41,0.259,0.347,0.606
+New York Yankees,2024,3,26,0.361,0.589,0.951
+New York Yankees,2024,4,18,0.333,0.396,0.73
+New York Yankees,2024,5,25,0.343,0.367,0.71
+New York Yankees,2024,6,21,0.41,0.394,0.804
+New York Yankees,2024,7,18,0.377,0.407,0.784
+New York Yankees,2024,8,10,0.395,0.538,0.934
+New York Yankees,2024,9,21,0.321,0.392,0.713
+Philadelphia Phillies,2024,1,28,0.383,0.694,1.078
+Philadelphia Phillies,2024,2,35,0.336,0.425,0.761
+Philadelphia Phillies,2024,3,29,0.392,0.354,0.745
+Philadelphia Phillies,2024,4,29,0.275,0.376,0.651
+Philadelphia Phillies,2024,5,27,0.312,0.533,0.845
+Philadelphia Phillies,2024,6,30,0.308,0.434,0.741
+Philadelphia Phillies,2024,7,30,0.319,0.32,0.639
+Philadelphia Phillies,2024,8,22,0.235,0.235,0.47
+Philadelphia Phillies,2024,9,18,0.433,0.509,0.942
+Pittsburgh Pirates,2024,1,35,0.338,0.421,0.76
+Pittsburgh Pirates,2024,2,27,0.26,0.267,0.527
+Pittsburgh Pirates,2024,3,23,0.337,0.333,0.67
+Pittsburgh Pirates,2024,4,20,0.222,0.233,0.455
+Pittsburgh Pirates,2024,5,24,0.264,0.412,0.676
+Pittsburgh Pirates,2024,6,27,0.33,0.318,0.648
+Pittsburgh Pirates,2024,7,27,0.333,0.371,0.704
+Pittsburgh Pirates,2024,8,32,0.193,0.221,0.414
+Pittsburgh Pirates,2024,9,26,0.367,0.407,0.774
+San Diego Padres,2024,1,18,0.322,0.309,0.631
+San Diego Padres,2024,2,23,0.303,0.472,0.775
+San Diego Padres,2024,3,29,0.295,0.333,0.628
+San Diego Padres,2024,4,32,0.258,0.31,0.568
+San Diego Padres,2024,5,29,0.294,0.443,0.737
+San Diego Padres,2024,6,35,0.323,0.443,0.766
+San Diego Padres,2024,7,26,0.289,0.258,0.547
+San Diego Padres,2024,8,27,0.253,0.216,0.469
+San Diego Padres,2024,9,21,0.329,0.328,0.657
+San Francisco Giants,2024,1,32,0.257,0.33,0.587
+San Francisco Giants,2024,2,25,0.292,0.382,0.674
+San Francisco Giants,2024,3,28,0.347,0.483,0.83
+San Francisco Giants,2024,4,31,0.29,0.374,0.663
+San Francisco Giants,2024,5,31,0.307,0.304,0.611
+San Francisco Giants,2024,6,26,0.298,0.355,0.653
+San Francisco Giants,2024,7,24,0.329,0.394,0.723
+San Francisco Giants,2024,8,20,0.338,0.547,0.885
+San Francisco Giants,2024,9,26,0.309,0.31,0.618
+Seattle Mariners,2024,1,26,0.337,0.365,0.701
+Seattle Mariners,2024,2,30,0.282,0.362,0.644
+Seattle Mariners,2024,3,27,0.293,0.36,0.652
+Seattle Mariners,2024,4,28,0.295,0.359,0.654
+Seattle Mariners,2024,5,29,0.321,0.41,0.731
+Seattle Mariners,2024,6,29,0.273,0.289,0.562
+Seattle Mariners,2024,7,24,0.356,0.314,0.671
+Seattle Mariners,2024,8,29,0.275,0.364,0.64
+Seattle Mariners,2024,9,21,0.346,0.471,0.817
+St. Louis Cardinals,2024,1,28,0.246,0.225,0.471
+St. Louis Cardinals,2024,2,23,0.315,0.28,0.595
+St. Louis Cardinals,2024,3,27,0.358,0.49,0.848
+St. Louis Cardinals,2024,4,28,0.299,0.44,0.739
+St. Louis Cardinals,2024,5,22,0.305,0.297,0.602
+St. Louis Cardinals,2024,6,20,0.296,0.448,0.744
+St. Louis Cardinals,2024,7,19,0.299,0.333,0.632
+St. Louis Cardinals,2024,8,15,0.255,0.229,0.484
+St. Louis Cardinals,2024,9,22,0.284,0.329,0.613
+Tampa Bay Rays,2024,1,13,0.24,0.306,0.546
+Tampa Bay Rays,2024,2,13,0.304,0.293,0.597
+Tampa Bay Rays,2024,3,16,0.278,0.44,0.718
+Tampa Bay Rays,2024,4,25,0.329,0.367,0.697
+Tampa Bay Rays,2024,5,23,0.277,0.362,0.64
+Tampa Bay Rays,2024,6,34,0.3,0.46,0.76
+Tampa Bay Rays,2024,7,37,0.308,0.292,0.601
+Tampa Bay Rays,2024,8,38,0.289,0.354,0.644
+Tampa Bay Rays,2024,9,34,0.295,0.403,0.699
+Texas Rangers,2024,1,29,0.252,0.306,0.558
+Texas Rangers,2024,2,29,0.32,0.469,0.789
+Texas Rangers,2024,3,24,0.34,0.341,0.682
+Texas Rangers,2024,4,27,0.289,0.345,0.633
+Texas Rangers,2024,5,22,0.293,0.403,0.695
+Texas Rangers,2024,6,24,0.368,0.494,0.862
+Texas Rangers,2024,7,22,0.297,0.299,0.596
+Texas Rangers,2024,8,14,0.277,0.238,0.515
+Texas Rangers,2024,9,24,0.329,0.421,0.75
+Toronto Blue Jays,2024,1,37,0.344,0.348,0.692
+Toronto Blue Jays,2024,2,23,0.296,0.378,0.675
+Toronto Blue Jays,2024,3,27,0.262,0.327,0.588
+Toronto Blue Jays,2024,4,21,0.361,0.5,0.861
+Toronto Blue Jays,2024,5,34,0.244,0.316,0.56
+Toronto Blue Jays,2024,6,22,0.337,0.351,0.688
+Toronto Blue Jays,2024,7,21,0.234,0.229,0.462
+Toronto Blue Jays,2024,8,27,0.362,0.395,0.757
+Toronto Blue Jays,2024,9,26,0.307,0.361,0.668
+Washington Nationals,2024,1,18,0.25,0.359,0.609
+Washington Nationals,2024,2,20,0.338,0.338,0.676
+Washington Nationals,2024,3,20,0.202,0.213,0.416
+Washington Nationals,2024,4,22,0.278,0.301,0.58
+Washington Nationals,2024,5,23,0.36,0.53,0.89
+Washington Nationals,2024,6,27,0.27,0.231,0.501
+Washington Nationals,2024,7,25,0.35,0.467,0.817
+Washington Nationals,2024,8,24,0.385,0.41,0.795
+Washington Nationals,2024,9,37,0.276,0.354,0.63
+,2025,1,2,0.333,1.333,1.667
+,2025,2,2,0.0,0.0,0.0
+,2025,3,2,0.0,0.0,0.0
+,2025,4,2,0.0,0.0,0.0
+,2025,5,2,0.2,0.0,0.2
+,2025,6,2,0.25,0.25,0.5
+,2025,7,2,0.5,0.75,1.25
+,2025,8,2,0.25,0.5,0.75
+,2025,9,2,0.333,0.333,0.667
+Arizona Diamondbacks,2025,1,82,0.272,0.354,0.626
+Arizona Diamondbacks,2025,2,72,0.349,0.514,0.863
+Arizona Diamondbacks,2025,3,86,0.32,0.42,0.74
+Arizona Diamondbacks,2025,4,73,0.334,0.445,0.78
+Arizona Diamondbacks,2025,5,87,0.288,0.421,0.709
+Arizona Diamondbacks,2025,6,78,0.332,0.426,0.759
+Arizona Diamondbacks,2025,7,72,0.285,0.343,0.628
+Arizona Diamondbacks,2025,8,66,0.278,0.41,0.688
+Arizona Diamondbacks,2025,9,63,0.344,0.39,0.734
+Athletics,2025,1,56,0.311,0.46,0.771
+Athletics,2025,2,62,0.306,0.449,0.755
+Athletics,2025,3,43,0.353,0.585,0.937
+Athletics,2025,4,45,0.323,0.407,0.73
+Athletics,2025,5,56,0.262,0.354,0.616
+Athletics,2025,6,65,0.294,0.478,0.773
+Athletics,2025,7,83,0.286,0.398,0.684
+Athletics,2025,8,88,0.298,0.422,0.72
+Athletics,2025,9,88,0.297,0.39,0.687
+Atlanta Braves,2025,1,84,0.297,0.411,0.708
+Atlanta Braves,2025,2,83,0.346,0.44,0.786
+Atlanta Braves,2025,3,88,0.315,0.458,0.772
+Atlanta Braves,2025,4,83,0.306,0.371,0.677
+Atlanta Braves,2025,5,71,0.315,0.455,0.77
+Atlanta Braves,2025,6,78,0.3,0.46,0.76
+Atlanta Braves,2025,7,70,0.365,0.494,0.859
+Atlanta Braves,2025,8,66,0.356,0.457,0.812
+Atlanta Braves,2025,9,67,0.27,0.29,0.561
+Baltimore Orioles,2025,1,49,0.272,0.344,0.615
+Baltimore Orioles,2025,2,43,0.242,0.288,0.53
+Baltimore Orioles,2025,3,67,0.268,0.389,0.657
+Baltimore Orioles,2025,4,69,0.282,0.396,0.678
+Baltimore Orioles,2025,5,74,0.315,0.484,0.799
+Baltimore Orioles,2025,6,67,0.272,0.346,0.618
+Baltimore Orioles,2025,7,78,0.305,0.47,0.776
+Baltimore Orioles,2025,8,91,0.309,0.39,0.699
+Baltimore Orioles,2025,9,83,0.316,0.386,0.702
+Boston Red Sox,2025,1,61,0.323,0.529,0.852
+Boston Red Sox,2025,2,71,0.272,0.389,0.661
+Boston Red Sox,2025,3,80,0.294,0.442,0.736
+Boston Red Sox,2025,4,76,0.297,0.361,0.658
+Boston Red Sox,2025,5,75,0.355,0.4,0.755
+Boston Red Sox,2025,6,83,0.271,0.329,0.6
+Boston Red Sox,2025,7,74,0.371,0.506,0.877
+Boston Red Sox,2025,8,80,0.305,0.375,0.68
+Boston Red Sox,2025,9,62,0.303,0.384,0.687
+Chicago Cubs,2025,1,86,0.33,0.381,0.71
+Chicago Cubs,2025,2,73,0.277,0.329,0.606
+Chicago Cubs,2025,3,92,0.316,0.433,0.749
+Chicago Cubs,2025,4,80,0.332,0.433,0.765
+Chicago Cubs,2025,5,76,0.272,0.41,0.683
+Chicago Cubs,2025,6,82,0.345,0.439,0.784
+Chicago Cubs,2025,7,80,0.284,0.391,0.676
+Chicago Cubs,2025,8,72,0.321,0.442,0.763
+Chicago Cubs,2025,9,85,0.333,0.386,0.719
+Chicago White Sox,2025,1,60,0.232,0.305,0.538
+Chicago White Sox,2025,2,72,0.289,0.455,0.744
+Chicago White Sox,2025,3,77,0.311,0.403,0.714
+Chicago White Sox,2025,4,68,0.303,0.397,0.7
+Chicago White Sox,2025,5,76,0.333,0.43,0.764
+Chicago White Sox,2025,6,60,0.306,0.413,0.719
+Chicago White Sox,2025,7,64,0.301,0.392,0.694
+Chicago White Sox,2025,8,52,0.266,0.385,0.651
+Chicago White Sox,2025,9,80,0.317,0.437,0.754
+Cincinnati Reds,2025,1,64,0.291,0.42,0.711
+Cincinnati Reds,2025,2,76,0.31,0.354,0.664
+Cincinnati Reds,2025,3,71,0.3,0.308,0.607
+Cincinnati Reds,2025,4,77,0.317,0.342,0.659
+Cincinnati Reds,2025,5,92,0.3,0.415,0.715
+Cincinnati Reds,2025,6,77,0.305,0.421,0.726
+Cincinnati Reds,2025,7,79,0.311,0.353,0.664
+Cincinnati Reds,2025,8,81,0.304,0.364,0.668
+Cincinnati Reds,2025,9,78,0.252,0.318,0.57
+Cleveland Guardians,2025,1,87,0.306,0.377,0.683
+Cleveland Guardians,2025,2,72,0.335,0.457,0.791
+Cleveland Guardians,2025,3,80,0.302,0.331,0.633
+Cleveland Guardians,2025,4,64,0.266,0.378,0.644
+Cleveland Guardians,2025,5,73,0.26,0.375,0.635
+Cleveland Guardians,2025,6,86,0.241,0.336,0.577
+Cleveland Guardians,2025,7,81,0.315,0.435,0.75
+Cleveland Guardians,2025,8,86,0.254,0.318,0.572
+Cleveland Guardians,2025,9,82,0.264,0.329,0.594
+Colorado Rockies,2025,1,59,0.286,0.359,0.645
+Colorado Rockies,2025,2,69,0.247,0.286,0.533
+Colorado Rockies,2025,3,66,0.252,0.336,0.588
+Colorado Rockies,2025,4,67,0.29,0.443,0.733
+Colorado Rockies,2025,5,64,0.293,0.42,0.714
+Colorado Rockies,2025,6,70,0.303,0.407,0.709
+Colorado Rockies,2025,7,75,0.279,0.373,0.652
+Colorado Rockies,2025,8,77,0.31,0.398,0.708
+Colorado Rockies,2025,9,93,0.307,0.4,0.707
+Detroit Tigers,2025,1,61,0.274,0.398,0.672
+Detroit Tigers,2025,2,65,0.274,0.33,0.605
+Detroit Tigers,2025,3,89,0.295,0.336,0.631
+Detroit Tigers,2025,4,87,0.318,0.464,0.781
+Detroit Tigers,2025,5,94,0.248,0.376,0.625
+Detroit Tigers,2025,6,87,0.302,0.395,0.697
+Detroit Tigers,2025,7,82,0.36,0.418,0.778
+Detroit Tigers,2025,8,93,0.307,0.438,0.745
+Detroit Tigers,2025,9,83,0.342,0.422,0.764
+Houston Astros,2025,1,93,0.31,0.371,0.681
+Houston Astros,2025,2,77,0.315,0.507,0.822
+Houston Astros,2025,3,77,0.317,0.469,0.786
+Houston Astros,2025,4,90,0.285,0.365,0.65
+Houston Astros,2025,5,96,0.315,0.365,0.679
+Houston Astros,2025,6,76,0.318,0.383,0.7
+Houston Astros,2025,7,76,0.27,0.372,0.641
+Houston Astros,2025,8,59,0.349,0.45,0.8
+Houston Astros,2025,9,49,0.299,0.438,0.737
+Kansas City Royals,2025,1,97,0.27,0.416,0.686
+Kansas City Royals,2025,2,85,0.311,0.421,0.733
+Kansas City Royals,2025,3,71,0.305,0.368,0.674
+Kansas City Royals,2025,4,82,0.339,0.482,0.821
+Kansas City Royals,2025,5,69,0.328,0.367,0.695
+Kansas City Royals,2025,6,66,0.293,0.43,0.722
+Kansas City Royals,2025,7,53,0.309,0.429,0.738
+Kansas City Royals,2025,8,66,0.301,0.484,0.786
+Kansas City Royals,2025,9,76,0.304,0.433,0.737
+Los Angeles Angels,2025,1,86,0.301,0.341,0.641
+Los Angeles Angels,2025,2,81,0.307,0.422,0.729
+Los Angeles Angels,2025,3,79,0.291,0.373,0.664
+Los Angeles Angels,2025,4,71,0.308,0.352,0.659
+Los Angeles Angels,2025,5,63,0.243,0.365,0.608
+Los Angeles Angels,2025,6,69,0.274,0.39,0.665
+Los Angeles Angels,2025,7,75,0.25,0.37,0.62
+Los Angeles Angels,2025,8,81,0.28,0.428,0.708
+Los Angeles Angels,2025,9,79,0.301,0.388,0.689
+Los Angeles Dodgers,2025,1,112,0.319,0.43,0.749
+Los Angeles Dodgers,2025,2,107,0.367,0.545,0.912
+Los Angeles Dodgers,2025,3,85,0.326,0.378,0.704
+Los Angeles Dodgers,2025,4,110,0.285,0.332,0.617
+Los Angeles Dodgers,2025,5,101,0.296,0.429,0.724
+Los Angeles Dodgers,2025,6,94,0.31,0.405,0.715
+Los Angeles Dodgers,2025,7,72,0.34,0.455,0.795
+Los Angeles Dodgers,2025,8,70,0.316,0.442,0.758
+Los Angeles Dodgers,2025,9,67,0.279,0.439,0.718
+Miami Marlins,2025,1,45,0.293,0.442,0.736
+Miami Marlins,2025,2,56,0.268,0.353,0.621
+Miami Marlins,2025,3,59,0.311,0.394,0.704
+Miami Marlins,2025,4,64,0.342,0.524,0.866
+Miami Marlins,2025,5,78,0.271,0.357,0.628
+Miami Marlins,2025,6,76,0.293,0.356,0.649
+Miami Marlins,2025,7,89,0.263,0.31,0.573
+Miami Marlins,2025,8,92,0.272,0.335,0.607
+Miami Marlins,2025,9,94,0.326,0.401,0.728
+Milwaukee Brewers,2025,1,62,0.325,0.421,0.746
+Milwaukee Brewers,2025,2,70,0.321,0.398,0.72
+Milwaukee Brewers,2025,3,63,0.365,0.46,0.826
+Milwaukee Brewers,2025,4,78,0.35,0.502,0.852
+Milwaukee Brewers,2025,5,74,0.339,0.412,0.751
+Milwaukee Brewers,2025,6,91,0.351,0.412,0.763
+Milwaukee Brewers,2025,7,90,0.348,0.447,0.795
+Milwaukee Brewers,2025,8,92,0.305,0.332,0.638
+Milwaukee Brewers,2025,9,94,0.304,0.432,0.736
+Minnesota Twins,2025,1,56,0.298,0.363,0.661
+Minnesota Twins,2025,2,68,0.295,0.427,0.723
+Minnesota Twins,2025,3,72,0.312,0.409,0.72
+Minnesota Twins,2025,4,75,0.275,0.407,0.682
+Minnesota Twins,2025,5,75,0.355,0.409,0.764
+Minnesota Twins,2025,6,74,0.291,0.4,0.691
+Minnesota Twins,2025,7,81,0.324,0.471,0.796
+Minnesota Twins,2025,8,82,0.303,0.361,0.664
+Minnesota Twins,2025,9,71,0.291,0.433,0.725
+New York Mets,2025,1,92,0.31,0.449,0.759
+New York Mets,2025,2,68,0.326,0.424,0.75
+New York Mets,2025,3,84,0.389,0.508,0.897
+New York Mets,2025,4,82,0.325,0.451,0.776
+New York Mets,2025,5,89,0.259,0.362,0.621
+New York Mets,2025,6,84,0.327,0.451,0.778
+New York Mets,2025,7,74,0.302,0.423,0.724
+New York Mets,2025,8,78,0.321,0.466,0.787
+New York Mets,2025,9,59,0.363,0.476,0.839
+New York Yankees,2025,1,103,0.309,0.453,0.763
+New York Yankees,2025,2,103,0.349,0.564,0.913
+New York Yankees,2025,3,83,0.336,0.443,0.78
+New York Yankees,2025,4,73,0.359,0.469,0.829
+New York Yankees,2025,5,75,0.371,0.523,0.894
+New York Yankees,2025,6,79,0.278,0.332,0.61
+New York Yankees,2025,7,59,0.312,0.508,0.82
+New York Yankees,2025,8,71,0.3,0.453,0.753
+New York Yankees,2025,9,72,0.279,0.364,0.643
+Philadelphia Phillies,2025,1,77,0.343,0.538,0.881
+Philadelphia Phillies,2025,2,89,0.324,0.465,0.788
+Philadelphia Phillies,2025,3,111,0.29,0.435,0.725
+Philadelphia Phillies,2025,4,80,0.333,0.479,0.813
+Philadelphia Phillies,2025,5,85,0.332,0.459,0.791
+Philadelphia Phillies,2025,6,83,0.348,0.49,0.839
+Philadelphia Phillies,2025,7,77,0.265,0.377,0.643
+Philadelphia Phillies,2025,8,65,0.321,0.396,0.718
+Philadelphia Phillies,2025,9,56,0.357,0.514,0.87
+Pittsburgh Pirates,2025,1,115,0.313,0.343,0.656
+Pittsburgh Pirates,2025,2,90,0.357,0.438,0.795
+Pittsburgh Pirates,2025,3,55,0.23,0.22,0.449
+Pittsburgh Pirates,2025,4,48,0.247,0.201,0.448
+Pittsburgh Pirates,2025,5,51,0.259,0.407,0.666
+Pittsburgh Pirates,2025,6,61,0.32,0.441,0.762
+Pittsburgh Pirates,2025,7,72,0.305,0.396,0.7
+Pittsburgh Pirates,2025,8,73,0.247,0.306,0.554
+Pittsburgh Pirates,2025,9,74,0.338,0.425,0.763
+San Diego Padres,2025,1,103,0.31,0.424,0.734
+San Diego Padres,2025,2,96,0.315,0.37,0.685
+San Diego Padres,2025,3,111,0.32,0.396,0.716
+San Diego Padres,2025,4,94,0.325,0.463,0.787
+San Diego Padres,2025,5,82,0.332,0.33,0.662
+San Diego Padres,2025,6,70,0.333,0.413,0.746
+San Diego Padres,2025,7,69,0.31,0.346,0.656
+San Diego Padres,2025,8,57,0.3,0.403,0.703
+San Diego Padres,2025,9,52,0.339,0.374,0.713
+San Francisco Giants,2025,1,72,0.281,0.335,0.615
+San Francisco Giants,2025,2,66,0.322,0.377,0.698
+San Francisco Giants,2025,3,76,0.333,0.446,0.78
+San Francisco Giants,2025,4,83,0.314,0.43,0.743
+San Francisco Giants,2025,5,72,0.315,0.442,0.757
+San Francisco Giants,2025,6,69,0.284,0.377,0.661
+San Francisco Giants,2025,7,70,0.288,0.407,0.695
+San Francisco Giants,2025,8,71,0.323,0.421,0.744
+San Francisco Giants,2025,9,67,0.295,0.413,0.708
+Seattle Mariners,2025,1,96,0.335,0.525,0.861
+Seattle Mariners,2025,2,100,0.321,0.489,0.81
+Seattle Mariners,2025,3,85,0.246,0.332,0.578
+Seattle Mariners,2025,4,91,0.31,0.404,0.714
+Seattle Mariners,2025,5,88,0.302,0.385,0.687
+Seattle Mariners,2025,6,84,0.307,0.441,0.748
+Seattle Mariners,2025,7,80,0.295,0.423,0.718
+Seattle Mariners,2025,8,79,0.303,0.485,0.788
+Seattle Mariners,2025,9,78,0.288,0.446,0.734
+St. Louis Cardinals,2025,1,66,0.323,0.412,0.736
+St. Louis Cardinals,2025,2,75,0.321,0.466,0.787
+St. Louis Cardinals,2025,3,55,0.314,0.402,0.716
+St. Louis Cardinals,2025,4,63,0.298,0.324,0.621
+St. Louis Cardinals,2025,5,54,0.339,0.367,0.705
+St. Louis Cardinals,2025,6,62,0.271,0.347,0.618
+St. Louis Cardinals,2025,7,74,0.278,0.356,0.634
+St. Louis Cardinals,2025,8,77,0.265,0.353,0.618
+St. Louis Cardinals,2025,9,90,0.26,0.253,0.513
+Tampa Bay Rays,2025,1,42,0.269,0.338,0.607
+Tampa Bay Rays,2025,2,69,0.309,0.323,0.631
+Tampa Bay Rays,2025,3,67,0.333,0.447,0.781
+Tampa Bay Rays,2025,4,84,0.296,0.37,0.666
+Tampa Bay Rays,2025,5,74,0.25,0.348,0.598
+Tampa Bay Rays,2025,6,83,0.331,0.457,0.788
+Tampa Bay Rays,2025,7,82,0.293,0.372,0.665
+Tampa Bay Rays,2025,8,70,0.301,0.442,0.743
+Tampa Bay Rays,2025,9,74,0.246,0.346,0.591
+Texas Rangers,2025,1,77,0.299,0.457,0.756
+Texas Rangers,2025,2,82,0.276,0.376,0.653
+Texas Rangers,2025,3,73,0.306,0.414,0.72
+Texas Rangers,2025,4,83,0.318,0.429,0.747
+Texas Rangers,2025,5,86,0.302,0.454,0.756
+Texas Rangers,2025,6,75,0.329,0.41,0.74
+Texas Rangers,2025,7,64,0.203,0.278,0.48
+Texas Rangers,2025,8,62,0.329,0.351,0.68
+Texas Rangers,2025,9,56,0.295,0.413,0.708
+Toronto Blue Jays,2025,1,112,0.367,0.523,0.89
+Toronto Blue Jays,2025,2,86,0.376,0.474,0.85
+Toronto Blue Jays,2025,3,85,0.316,0.472,0.788
+Toronto Blue Jays,2025,4,84,0.325,0.486,0.81
+Toronto Blue Jays,2025,5,78,0.325,0.417,0.742
+Toronto Blue Jays,2025,6,95,0.321,0.399,0.72
+Toronto Blue Jays,2025,7,101,0.299,0.465,0.764
+Toronto Blue Jays,2025,8,110,0.318,0.445,0.763
+Toronto Blue Jays,2025,9,116,0.331,0.45,0.781
+Washington Nationals,2025,1,39,0.291,0.41,0.701
+Washington Nationals,2025,2,69,0.328,0.419,0.748
+Washington Nationals,2025,3,63,0.264,0.304,0.569
+Washington Nationals,2025,4,63,0.286,0.419,0.705
+Washington Nationals,2025,5,69,0.297,0.343,0.64
+Washington Nationals,2025,6,67,0.259,0.344,0.603
+Washington Nationals,2025,7,68,0.29,0.404,0.693
+Washington Nationals,2025,8,86,0.287,0.375,0.662
+Washington Nationals,2025,9,81,0.244,0.329,0.573
+Arizona Diamondbacks,2026,1,72,0.286,0.368,0.654
+Arizona Diamondbacks,2026,2,85,0.337,0.458,0.795
+Arizona Diamondbacks,2026,3,92,0.266,0.333,0.599
+Arizona Diamondbacks,2026,4,68,0.327,0.409,0.736
+Arizona Diamondbacks,2026,5,42,0.314,0.493,0.808
+Arizona Diamondbacks,2026,6,45,0.269,0.288,0.557
+Arizona Diamondbacks,2026,7,39,0.28,0.37,0.65
+Arizona Diamondbacks,2026,8,48,0.272,0.31,0.582
+Arizona Diamondbacks,2026,9,54,0.36,0.381,0.741
+Athletics,2026,1,45,0.272,0.324,0.596
+Athletics,2026,2,34,0.314,0.363,0.677
+Athletics,2026,3,52,0.272,0.409,0.681
+Athletics,2026,4,62,0.272,0.316,0.587
+Athletics,2026,5,66,0.299,0.378,0.677
+Athletics,2026,6,60,0.321,0.385,0.706
+Athletics,2026,7,69,0.285,0.377,0.661
+Athletics,2026,8,79,0.367,0.496,0.863
+Athletics,2026,9,78,0.365,0.521,0.886
+Atlanta Braves,2026,1,93,0.266,0.364,0.63
+Atlanta Braves,2026,2,71,0.314,0.467,0.781
+Atlanta Braves,2026,3,68,0.353,0.464,0.817
+Atlanta Braves,2026,4,68,0.278,0.453,0.732
+Atlanta Braves,2026,5,71,0.316,0.381,0.696
+Atlanta Braves,2026,6,67,0.275,0.409,0.684
+Atlanta Braves,2026,7,72,0.341,0.514,0.855
+Atlanta Braves,2026,8,78,0.348,0.416,0.764
+Atlanta Braves,2026,9,57,0.312,0.381,0.693
+Baltimore Orioles,2026,1,57,0.379,0.42,0.8
+Baltimore Orioles,2026,2,73,0.331,0.386,0.717
+Baltimore Orioles,2026,3,74,0.267,0.328,0.595
+Baltimore Orioles,2026,4,71,0.376,0.44,0.816
+Baltimore Orioles,2026,5,53,0.325,0.432,0.757
+Baltimore Orioles,2026,6,66,0.331,0.397,0.728
+Baltimore Orioles,2026,7,80,0.342,0.522,0.864
+Baltimore Orioles,2026,8,64,0.287,0.391,0.678
+Baltimore Orioles,2026,9,69,0.297,0.399,0.696
+Boston Red Sox,2026,1,57,0.346,0.49,0.837
+Boston Red Sox,2026,2,46,0.326,0.471,0.797
+Boston Red Sox,2026,3,60,0.321,0.453,0.774
+Boston Red Sox,2026,4,52,0.304,0.367,0.672
+Boston Red Sox,2026,5,63,0.315,0.388,0.703
+Boston Red Sox,2026,6,53,0.266,0.306,0.572
+Boston Red Sox,2026,7,56,0.278,0.331,0.61
+Boston Red Sox,2026,8,58,0.281,0.369,0.651
+Boston Red Sox,2026,9,65,0.308,0.388,0.696
+Chicago Cubs,2026,1,53,0.307,0.342,0.649
+Chicago Cubs,2026,2,64,0.275,0.312,0.587
+Chicago Cubs,2026,3,70,0.317,0.338,0.654
+Chicago Cubs,2026,4,62,0.321,0.355,0.676
+Chicago Cubs,2026,5,72,0.318,0.405,0.723
+Chicago Cubs,2026,6,73,0.367,0.486,0.853
+Chicago Cubs,2026,7,65,0.348,0.493,0.841
+Chicago Cubs,2026,8,56,0.318,0.329,0.647
+Chicago Cubs,2026,9,63,0.272,0.326,0.598
+Chicago White Sox,2026,1,55,0.323,0.459,0.782
+Chicago White Sox,2026,2,54,0.356,0.572,0.928
+Chicago White Sox,2026,3,40,0.312,0.405,0.717
+Chicago White Sox,2026,4,53,0.288,0.364,0.652
+Chicago White Sox,2026,5,57,0.297,0.35,0.648
+Chicago White Sox,2026,6,51,0.299,0.383,0.682
+Chicago White Sox,2026,7,53,0.312,0.445,0.757
+Chicago White Sox,2026,8,58,0.298,0.387,0.684
+Chicago White Sox,2026,9,66,0.284,0.408,0.692
+Cincinnati Reds,2026,1,62,0.312,0.386,0.698
+Cincinnati Reds,2026,2,52,0.33,0.512,0.841
+Cincinnati Reds,2026,3,54,0.267,0.349,0.616
+Cincinnati Reds,2026,4,59,0.33,0.45,0.78
+Cincinnati Reds,2026,5,72,0.274,0.379,0.654
+Cincinnati Reds,2026,6,64,0.28,0.321,0.601
+Cincinnati Reds,2026,7,72,0.323,0.373,0.696
+Cincinnati Reds,2026,8,71,0.356,0.438,0.794
+Cincinnati Reds,2026,9,61,0.257,0.413,0.67
+Cleveland Guardians,2026,1,60,0.305,0.33,0.634
+Cleveland Guardians,2026,2,76,0.353,0.436,0.789
+Cleveland Guardians,2026,3,73,0.278,0.325,0.603
+Cleveland Guardians,2026,4,68,0.344,0.344,0.687
+Cleveland Guardians,2026,5,64,0.309,0.341,0.65
+Cleveland Guardians,2026,6,53,0.274,0.356,0.631
+Cleveland Guardians,2026,7,47,0.282,0.374,0.657
+Cleveland Guardians,2026,8,49,0.33,0.405,0.735
+Cleveland Guardians,2026,9,67,0.318,0.436,0.754
+Colorado Rockies,2026,1,30,0.356,0.511,0.867
+Colorado Rockies,2026,2,42,0.352,0.336,0.688
+Colorado Rockies,2026,3,44,0.29,0.516,0.806
+Colorado Rockies,2026,4,66,0.343,0.463,0.806
+Colorado Rockies,2026,5,69,0.281,0.318,0.599
+Colorado Rockies,2026,6,73,0.359,0.449,0.808
+Colorado Rockies,2026,7,77,0.286,0.367,0.652
+Colorado Rockies,2026,8,83,0.33,0.45,0.78
+Colorado Rockies,2026,9,70,0.253,0.254,0.507
+Detroit Tigers,2026,1,44,0.257,0.399,0.655
+Detroit Tigers,2026,2,42,0.292,0.346,0.638
+Detroit Tigers,2026,3,57,0.314,0.376,0.69
+Detroit Tigers,2026,4,63,0.31,0.293,0.603
+Detroit Tigers,2026,5,80,0.302,0.367,0.669
+Detroit Tigers,2026,6,77,0.307,0.374,0.682
+Detroit Tigers,2026,7,64,0.309,0.447,0.756
+Detroit Tigers,2026,8,64,0.279,0.41,0.69
+Detroit Tigers,2026,9,58,0.282,0.404,0.686
+Houston Astros,2026,1,91,0.319,0.383,0.702
+Houston Astros,2026,2,97,0.287,0.449,0.736
+Houston Astros,2026,3,79,0.305,0.378,0.683
+Houston Astros,2026,4,44,0.331,0.503,0.835
+Houston Astros,2026,5,40,0.363,0.438,0.801
+Houston Astros,2026,6,38,0.307,0.46,0.767
+Houston Astros,2026,7,49,0.301,0.367,0.668
+Houston Astros,2026,8,52,0.282,0.303,0.586
+Houston Astros,2026,9,67,0.298,0.422,0.72
+Kansas City Royals,2026,1,79,0.314,0.412,0.726
+Kansas City Royals,2026,2,62,0.297,0.336,0.633
+Kansas City Royals,2026,3,53,0.302,0.351,0.653
+Kansas City Royals,2026,4,53,0.303,0.268,0.571
+Kansas City Royals,2026,5,53,0.317,0.516,0.833
+Kansas City Royals,2026,6,70,0.286,0.319,0.605
+Kansas City Royals,2026,7,76,0.345,0.377,0.722
+Kansas City Royals,2026,8,67,0.324,0.423,0.747
+Kansas City Royals,2026,9,72,0.316,0.374,0.69
+Los Angeles Angels,2026,1,74,0.329,0.337,0.666
+Los Angeles Angels,2026,2,53,0.338,0.441,0.78
+Los Angeles Angels,2026,3,72,0.254,0.321,0.574
+Los Angeles Angels,2026,4,61,0.305,0.515,0.82
+Los Angeles Angels,2026,5,50,0.295,0.394,0.689
+Los Angeles Angels,2026,6,60,0.326,0.391,0.717
+Los Angeles Angels,2026,7,67,0.3,0.368,0.669
+Los Angeles Angels,2026,8,55,0.282,0.427,0.709
+Los Angeles Angels,2026,9,70,0.304,0.368,0.672
+Los Angeles Dodgers,2026,1,90,0.31,0.419,0.729
+Los Angeles Dodgers,2026,2,89,0.365,0.482,0.847
+Los Angeles Dodgers,2026,3,66,0.318,0.455,0.774
+Los Angeles Dodgers,2026,4,71,0.37,0.472,0.842
+Los Angeles Dodgers,2026,5,55,0.344,0.399,0.743
+Los Angeles Dodgers,2026,6,63,0.354,0.482,0.837
+Los Angeles Dodgers,2026,7,53,0.332,0.492,0.824
+Los Angeles Dodgers,2026,8,57,0.371,0.412,0.783
+Los Angeles Dodgers,2026,9,54,0.343,0.408,0.751
+Miami Marlins,2026,1,42,0.275,0.347,0.622
+Miami Marlins,2026,2,49,0.304,0.404,0.707
+Miami Marlins,2026,3,49,0.31,0.348,0.658
+Miami Marlins,2026,4,63,0.29,0.41,0.701
+Miami Marlins,2026,5,65,0.259,0.332,0.591
+Miami Marlins,2026,6,65,0.361,0.567,0.928
+Miami Marlins,2026,7,81,0.32,0.308,0.628
+Miami Marlins,2026,8,68,0.267,0.338,0.605
+Miami Marlins,2026,9,80,0.361,0.425,0.786
+Milwaukee Brewers,2026,1,64,0.377,0.468,0.845
+Milwaukee Brewers,2026,2,60,0.361,0.473,0.833
+Milwaukee Brewers,2026,3,76,0.334,0.41,0.744
+Milwaukee Brewers,2026,4,62,0.308,0.319,0.627
+Milwaukee Brewers,2026,5,63,0.264,0.271,0.535
+Milwaukee Brewers,2026,6,65,0.363,0.445,0.808
+Milwaukee Brewers,2026,7,65,0.297,0.284,0.581
+Milwaukee Brewers,2026,8,62,0.318,0.324,0.642
+Milwaukee Brewers,2026,9,64,0.324,0.392,0.716
+Minnesota Twins,2026,1,62,0.267,0.329,0.595
+Minnesota Twins,2026,2,99,0.283,0.356,0.639
+Minnesota Twins,2026,3,84,0.302,0.469,0.77
+Minnesota Twins,2026,4,71,0.342,0.438,0.78
+Minnesota Twins,2026,5,58,0.338,0.505,0.844
+Minnesota Twins,2026,6,53,0.323,0.421,0.744
+Minnesota Twins,2026,7,55,0.347,0.477,0.824
+Minnesota Twins,2026,8,51,0.271,0.318,0.589
+Minnesota Twins,2026,9,61,0.333,0.443,0.776
+New York Mets,2026,1,85,0.268,0.367,0.635
+New York Mets,2026,2,73,0.243,0.307,0.55
+New York Mets,2026,3,68,0.269,0.324,0.593
+New York Mets,2026,4,68,0.301,0.389,0.69
+New York Mets,2026,5,62,0.254,0.469,0.724
+New York Mets,2026,6,58,0.358,0.451,0.809
+New York Mets,2026,7,55,0.301,0.495,0.795
+New York Mets,2026,8,45,0.231,0.292,0.523
+New York Mets,2026,9,62,0.315,0.324,0.639
+New York Yankees,2026,1,87,0.337,0.45,0.787
+New York Yankees,2026,2,64,0.319,0.406,0.725
+New York Yankees,2026,3,62,0.326,0.415,0.742
+New York Yankees,2026,4,69,0.332,0.44,0.772
+New York Yankees,2026,5,65,0.281,0.405,0.686
+New York Yankees,2026,6,61,0.365,0.44,0.805
+New York Yankees,2026,7,51,0.283,0.383,0.667
+New York Yankees,2026,8,55,0.322,0.375,0.697
+New York Yankees,2026,9,54,0.34,0.475,0.815
+Philadelphia Phillies,2026,1,80,0.343,0.486,0.829
+Philadelphia Phillies,2026,2,77,0.304,0.396,0.699
+Philadelphia Phillies,2026,3,77,0.278,0.291,0.569
+Philadelphia Phillies,2026,4,61,0.238,0.33,0.568
+Philadelphia Phillies,2026,5,57,0.252,0.339,0.591
+Philadelphia Phillies,2026,6,55,0.265,0.414,0.68
+Philadelphia Phillies,2026,7,52,0.345,0.455,0.8
+Philadelphia Phillies,2026,8,55,0.344,0.481,0.826
+Philadelphia Phillies,2026,9,53,0.315,0.423,0.738
+Pittsburgh Pirates,2026,1,76,0.3,0.377,0.676
+Pittsburgh Pirates,2026,2,46,0.383,0.494,0.877
+Pittsburgh Pirates,2026,3,41,0.319,0.429,0.748
+Pittsburgh Pirates,2026,4,52,0.351,0.433,0.784
+Pittsburgh Pirates,2026,5,58,0.345,0.471,0.816
+Pittsburgh Pirates,2026,6,58,0.357,0.415,0.772
+Pittsburgh Pirates,2026,7,60,0.37,0.467,0.836
+Pittsburgh Pirates,2026,8,80,0.283,0.332,0.615
+Pittsburgh Pirates,2026,9,65,0.3,0.298,0.599
+San Diego Padres,2026,1,79,0.289,0.435,0.724
+San Diego Padres,2026,2,89,0.279,0.308,0.588
+San Diego Padres,2026,3,78,0.314,0.395,0.709
+San Diego Padres,2026,4,69,0.293,0.379,0.673
+San Diego Padres,2026,5,45,0.3,0.389,0.689
+San Diego Padres,2026,6,43,0.304,0.375,0.679
+San Diego Padres,2026,7,63,0.25,0.327,0.577
+San Diego Padres,2026,8,56,0.288,0.348,0.636
+San Diego Padres,2026,9,46,0.327,0.51,0.837
+San Francisco Giants,2026,1,42,0.235,0.313,0.548
+San Francisco Giants,2026,2,38,0.313,0.477,0.79
+San Francisco Giants,2026,3,56,0.298,0.464,0.762
+San Francisco Giants,2026,4,74,0.329,0.429,0.757
+San Francisco Giants,2026,5,86,0.263,0.403,0.666
+San Francisco Giants,2026,6,82,0.321,0.46,0.782
+San Francisco Giants,2026,7,68,0.292,0.374,0.667
+San Francisco Giants,2026,8,69,0.287,0.364,0.651
+San Francisco Giants,2026,9,50,0.266,0.369,0.635
+Seattle Mariners,2026,1,47,0.272,0.4,0.672
+Seattle Mariners,2026,2,66,0.281,0.302,0.583
+Seattle Mariners,2026,3,62,0.294,0.352,0.646
+Seattle Mariners,2026,4,69,0.368,0.529,0.897
+Seattle Mariners,2026,5,75,0.3,0.448,0.749
+Seattle Mariners,2026,6,80,0.284,0.369,0.653
+Seattle Mariners,2026,7,74,0.352,0.431,0.784
+Seattle Mariners,2026,8,63,0.313,0.388,0.701
+Seattle Mariners,2026,9,57,0.268,0.319,0.587
+St. Louis Cardinals,2026,1,37,0.333,0.413,0.746
+St. Louis Cardinals,2026,2,50,0.333,0.494,0.827
+St. Louis Cardinals,2026,3,43,0.272,0.261,0.533
+St. Louis Cardinals,2026,4,56,0.29,0.344,0.634
+St. Louis Cardinals,2026,5,60,0.271,0.35,0.621
+St. Louis Cardinals,2026,6,69,0.31,0.417,0.727
+St. Louis Cardinals,2026,7,68,0.317,0.373,0.691
+St. Louis Cardinals,2026,8,74,0.31,0.374,0.684
+St. Louis Cardinals,2026,9,63,0.324,0.423,0.746
+Tampa Bay Rays,2026,1,41,0.32,0.384,0.704
+Tampa Bay Rays,2026,2,68,0.339,0.385,0.724
+Tampa Bay Rays,2026,3,61,0.31,0.423,0.733
+Tampa Bay Rays,2026,4,58,0.274,0.309,0.584
+Tampa Bay Rays,2026,5,55,0.322,0.302,0.624
+Tampa Bay Rays,2026,6,69,0.38,0.422,0.802
+Tampa Bay Rays,2026,7,60,0.338,0.51,0.848
+Tampa Bay Rays,2026,8,53,0.319,0.314,0.633
+Tampa Bay Rays,2026,9,62,0.343,0.427,0.77
+Texas Rangers,2026,1,77,0.318,0.368,0.686
+Texas Rangers,2026,2,69,0.322,0.372,0.695
+Texas Rangers,2026,3,79,0.294,0.394,0.688
+Texas Rangers,2026,4,80,0.314,0.412,0.726
+Texas Rangers,2026,5,73,0.301,0.381,0.682
+Texas Rangers,2026,6,68,0.288,0.323,0.611
+Texas Rangers,2026,7,47,0.29,0.378,0.669
+Texas Rangers,2026,8,58,0.299,0.38,0.679
+Texas Rangers,2026,9,52,0.337,0.444,0.781
+Toronto Blue Jays,2026,1,73,0.288,0.283,0.571
+Toronto Blue Jays,2026,2,67,0.263,0.345,0.608
+Toronto Blue Jays,2026,3,49,0.293,0.404,0.697
+Toronto Blue Jays,2026,4,57,0.272,0.376,0.648
+Toronto Blue Jays,2026,5,81,0.321,0.452,0.772
+Toronto Blue Jays,2026,6,83,0.313,0.427,0.74
+Toronto Blue Jays,2026,7,88,0.316,0.398,0.714
+Toronto Blue Jays,2026,8,78,0.312,0.376,0.688
+Toronto Blue Jays,2026,9,74,0.304,0.33,0.634
+Washington Nationals,2026,1,45,0.284,0.391,0.675
+Washington Nationals,2026,2,49,0.261,0.325,0.585
+Washington Nationals,2026,3,60,0.296,0.359,0.656
+Washington Nationals,2026,4,59,0.365,0.495,0.86
+Washington Nationals,2026,5,70,0.325,0.464,0.789
+Washington Nationals,2026,6,63,0.281,0.382,0.663
+Washington Nationals,2026,7,52,0.317,0.482,0.8
+Washington Nationals,2026,8,68,0.295,0.399,0.694
+Washington Nationals,2026,9,85,0.351,0.473,0.824
